@@ -1,0 +1,12 @@
+# Grav Specific
+.sass-cache
+accounts/*
+data/*
+plugins/*
+
+# OS Generated
+.DS_Store*
+ehthumbs.db
+Icon?
+Thumbs.db
+*.swp
