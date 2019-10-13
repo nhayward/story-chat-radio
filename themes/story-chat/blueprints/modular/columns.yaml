@@ -1,0 +1,19 @@
+title: Columns
+'@extends': default
+
+form:
+  fields:
+    tabs:
+      fields:
+        content:
+          fields:
+            replace@: true
+            header.columns:
+              name: columns
+              type: list
+              style: vertical
+              label: Columns
+              fields:
+                .content:
+                  type: editor
+                  label: Content

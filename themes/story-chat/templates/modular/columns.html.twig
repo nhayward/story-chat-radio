@@ -1,0 +1,11 @@
+<section class="section modular-columns {{ page.header.class}}">
+    <section class="container grid-lg">
+        <div class="columns">
+            {% for column in page.header.columns %}
+                <div class="column col-6 col-md-12">
+                    {{ column.content|raw }}
+                </div>
+            {% endfor %}
+        </div>
+    </section>
+</section>

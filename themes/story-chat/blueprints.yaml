@@ -1,0 +1,13 @@
+name: Story Chat
+version: 0.1.0
+description: Story Chat Radio Theme
+icon: rebel
+author:
+  name: Nick Hayward
+  email: nhayward2011@gmail.com
+homepage: https://github.com/nick-hayward/grav-theme-story-chat
+demo: http://demo.yoursite.com
+keywords: grav, theme, etc
+bugs: https://github.com/nick-hayward/grav-theme-story-chat/issues
+readme: https://github.com/nick-hayward/grav-theme-story-chat/blob/develop/README.md
+license: MIT

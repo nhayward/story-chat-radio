@@ -1,0 +1,21 @@
+enabled: true
+production-mode: true
+grid-size: grid-lg
+header-fixed: true
+header-animated: true
+header-dark: true
+header-transparent: false
+sticky-footer: true
+blog-page: '/home'
+spectre:
+  exp: false
+  icons: false
+
+streams:
+ schemes:
+   theme:
+     type: ReadOnlyStream
+     prefixes:
+       '':
+         - user/themes/story-chat
+         - user/themes/quark

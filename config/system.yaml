@@ -20,7 +20,7 @@ home:
   alias: /home
   hide_in_urls: true
 pages:
-  theme: quark
+  theme: story-chat
   order:
     by: default
     dir: asc
