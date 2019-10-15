@@ -1,8 +1,14 @@
 @import 'header';
 @import 'footer';
 @import 'blog';
+@import 'social-bar';
 @import 'modular/all';
 
-.float-left {
-    padding-right: 1rem;
+#body-wrapper {
+    padding-right: 2rem;
+
+    .float-left {
+        padding-right: 1rem;
+    }
+
 }
