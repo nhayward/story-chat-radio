@@ -8,6 +8,9 @@ form:
         content:
           fields:
             replace@: true
+            header.media_order:
+              type: pagemedia
+              label: Page Media
             header.columns:
               name: columns
               type: list

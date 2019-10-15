@@ -1,0 +1,17 @@
+{% set item_col = show_sidebar ? 'col-9 col-md-12' : 'col-12' %}
+{% set sidebar_col = show_sidebar ? 'col-3 col-md-12' : 'col-12' %}
+
+{% if page.header.blog_header %}
+    <h1 class="blog-header">{{ page.header.blog_header }}</h1>
+{% endif %}
+
+<div class="columns">
+    <div id="item" class="column {{ item_col }} extra-spacing">
+        {% block item %}{% endblock %}
+    </div>
+    {% if show_sidebar %}
+    <div id="sidebar" class="column {{ sidebar_col }}">
+        {% block sidebar %}{% endblock %}
+    </div>
+    {% endif %}
+</div>

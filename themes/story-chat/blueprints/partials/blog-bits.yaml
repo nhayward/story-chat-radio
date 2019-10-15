@@ -1,0 +1,8 @@
+extends@: parent@
+
+form:
+  fields:
+
+    header.blog_header:
+      type: text
+      label: Blog Header Text

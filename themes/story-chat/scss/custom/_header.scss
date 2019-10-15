@@ -1,19 +1,55 @@
 #header {
+    background-color: $dark-color !important;
 
     .logo {
 
         img {
             height: auto;
+            max-height: 35px;
+        }
+
+    }
+
+    a {
+        color: $dark-color;
+
+        &.active {
+            color: $gray-color-dark !important;
+        }
+
+        &:hover {
+            color: $gray-color-dark !important;
         }
 
     }
 
     &.scrolled {
+        background-color: $primary-color !important;
 
         .logo {
 
             img {
                 height: auto !important;
+            }
+
+        }
+
+        ~ .mobile-menu {
+
+            .button_container {
+
+                span {
+                    background-color: $black;
+                }
+
+                &.active {
+
+                    span {
+                        background-color: $white;
+                    }
+
+                }
+
             }
 
         }
@@ -35,6 +71,18 @@
 
         &.mobile-scrolled {
             margin-top: 0.6rem;
+        }
+
+    }
+
+}
+
+.mobile-menu {
+
+    .button_container {
+
+        span {
+            background-color: $light-color;
         }
 
     }

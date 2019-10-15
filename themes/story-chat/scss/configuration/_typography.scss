@@ -1,0 +1,21 @@
+h1, h2, h3, h4, h5, h6 {
+    color: $dark-color;
+}
+
+a {
+    color: $light-color;
+
+    &:visited {
+        color: $light-color;
+    }
+
+    &.btn {
+        border-color: $light-color;
+
+        &:hover {
+            border-color: $light-color;
+        }
+
+    }
+
+}
