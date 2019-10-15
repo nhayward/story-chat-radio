@@ -1,0 +1,11 @@
+{% set grid_size = theme_var('grid-size') %}
+
+<section class="section modular-text {{ page.header.class}}">
+    <section class="container {{ grid_size }}">
+        <div class="columns">
+            <div class="column col-12">
+                {{ content|markdown }}
+            </div>
+        </div>
+    </section>
+</section>

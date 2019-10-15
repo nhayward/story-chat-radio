@@ -1,0 +1,42 @@
+#header {
+
+    .logo {
+
+        img {
+            height: auto;
+        }
+
+    }
+
+    &.scrolled {
+
+        .logo {
+
+            img {
+                height: auto !important;
+            }
+
+        }
+
+    }
+
+}
+
+.mobile-logo {
+    margin-right: 2rem;
+    padding-left: 1.4rem;
+    padding-right: 1.4rem;
+    height: 4rem;
+
+    img {
+        margin-top: 1.4rem;
+        margin-left: 0;
+        height: auto;
+
+        &.mobile-scrolled {
+            margin-top: 0.6rem;
+        }
+
+    }
+
+}

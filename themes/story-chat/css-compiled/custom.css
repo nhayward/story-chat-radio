@@ -1,0 +1,18 @@
+#header .logo img {
+  height: auto; }
+#header.scrolled .logo img {
+  height: auto !important; }
+
+.mobile-logo {
+  margin-right: 2rem;
+  padding-left: 1.4rem;
+  padding-right: 1.4rem;
+  height: 4rem; }
+  .mobile-logo img {
+    margin-top: 1.4rem;
+    margin-left: 0;
+    height: auto; }
+    .mobile-logo img.mobile-scrolled {
+      margin-top: 0.6rem; }
+
+/*# sourceMappingURL=custom.css.map */

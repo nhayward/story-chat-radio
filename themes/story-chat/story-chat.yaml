@@ -1,6 +1,10 @@
 enabled: true
 production-mode: true
 grid-size: grid-lg
+custom_logo:
+  - name: StoryChatRadio_nav_inverted.png
+custom_logo_mobile:
+  - name: StoryChatRadio_nav_inverted.png
 header-fixed: true
 header-animated: true
 header-dark: true
@@ -12,10 +16,10 @@ spectre:
   icons: false
 
 streams:
- schemes:
-   theme:
-     type: ReadOnlyStream
-     prefixes:
-       '':
-         - user/themes/story-chat
-         - user/themes/quark
+  schemes:
+    theme:
+      type: ReadOnlyStream
+      prefixes:
+        '':
+          - user/themes/story-chat
+          - user/themes/quark
