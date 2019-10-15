@@ -15,3 +15,12 @@ summary:
   delimiter: '==='
 blog:
   route: /home
+social_links:
+  -
+    title: Twitter
+    link: https://twitter.com/StoryChatRadio
+    image: Twitter.png
+  -
+    title: Instagram
+    link: https://www.instagram.com/storychatradio
+    image: Instagram.png
