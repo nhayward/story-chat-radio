@@ -30,4 +30,9 @@ jQuery(document).ready(function() {
         }
     });
 
+    // set noopener noreferrer on all target _blank links for security
+    $('a[target="_blank"]').each(function() {
+        $(this).attr('rel', 'noopener noreferrer');
+    });
+
 });
