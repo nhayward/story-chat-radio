@@ -71,10 +71,12 @@
     }
 
     #disqus_thread {
-        margin-right: 2rem;
+        margin: 0 auto;
+        max-width: 976px;
+        padding-right: 2rem;
 
         @media (max-width: 840px) {
-            margin-right: 0;
+            padding-right: 0;
         }
 
     }

@@ -91,10 +91,12 @@ a {
 .blog-listing .sharer-buttons-toolbar {
   text-align: center; }
 .blog-listing #disqus_thread {
-  margin-right: 2rem; }
+  margin: 0 auto;
+  max-width: 976px;
+  padding-right: 2rem; }
   @media (max-width: 840px) {
     .blog-listing #disqus_thread {
-      margin-right: 0; } }
+      padding-right: 0; } }
 
 #floating-social {
   position: fixed;
