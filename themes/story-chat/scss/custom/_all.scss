@@ -12,4 +12,16 @@
         padding-right: 1rem;
     }
 
+    .float-right {
+        padding-left: 1rem;
+    }
+
+    .float-left, .float-right {
+
+        @media (max-width: 580px) {
+            float: none !important;
+        }
+        
+    }
+
 }

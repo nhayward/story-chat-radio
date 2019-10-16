@@ -137,5 +137,10 @@ a {
   padding-bottom: 2rem; }
   #body-wrapper .float-left {
     padding-right: 1rem; }
+  #body-wrapper .float-right {
+    padding-left: 1rem; }
+  @media (max-width: 580px) {
+    #body-wrapper .float-left, #body-wrapper .float-right {
+      float: none !important; } }
 
 /*# sourceMappingURL=custom.css.map */
