@@ -3,7 +3,7 @@ built_in_css: true
 fontawesome_icons: true
 fontawesome_v4: false
 fontawesome_css: true
-template: rounded
+template: circles
 buttons:
   facebook:
     enabled: true
