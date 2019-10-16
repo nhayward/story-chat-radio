@@ -31,6 +31,7 @@
     {% do assets.addJs('theme://js/jquery.treemenu.js', {group:'bottom'}) %}
     {% do assets.addJs('theme://js/site.js', {group:'bottom'}) %}
     {% do assets.addJs('theme://js/custom.js', {group:'bottom'}) %}
+    {% do assets.addJs('//story-chat-radio.disqus.com/count.js', {loading: 'async', id: 'dsq-count-scr', group: 'bottom'}) %}
 {% endblock %}
 
 {% block assets deferred %}
