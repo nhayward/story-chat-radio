@@ -55,8 +55,12 @@ a {
     margin: 0.5rem 0.5rem 1rem; }
 
 .blog-listing .blog-header {
+  margin-bottom: 2rem;
   text-align: center;
   font-size: 2rem; }
+  @media (max-width: 768px) {
+    .blog-listing .blog-header {
+      font-size: 1.5rem; } }
 .blog-listing #item {
   width: 100%; }
   .blog-listing #item .card {
@@ -121,6 +125,9 @@ a {
   padding: 0; }
   .modular-hero #to-start {
     bottom: 0; }
+  @media (max-width: 768px) {
+    .modular-hero {
+      height: 200px; } }
 
 .modular-text {
   padding: 0 !important; }
