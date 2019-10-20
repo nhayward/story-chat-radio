@@ -40,7 +40,9 @@
 
     {% include 'partials/sharer.html.twig' %}
 
-    {{ jscomments()|raw }}
+    {% if config.plugins.jscomments.enabled %}
+        {{ jscomments()|raw }}
+    {% endif %}
     
 </section>
 {% endblock %}
