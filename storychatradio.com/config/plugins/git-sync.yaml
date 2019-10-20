@@ -13,7 +13,7 @@ sync:
   cron_at: '0 12,23 * * *'
 repository: 'https://github.com/nhayward/story-chat-radio.git'
 user: nhayward
-password: gitsync-def50200e68d87bb5c102e9ccc2f27d0da6bf787c486986c04206b08e21eac7c704793b12aed598fc32c0f9db86329bfae25e299ff0f48224a75d7d38aeadff778538f04519f88ae22908a1c39c6360ce9b8aef197ae7e97a3c2e4c7d8
+password: gitsync-def50200189fbd3dd060ae8dc34f3b914f16b440b93d9b2956665b953b523d3190546191e2c5f3abf32d677e0b7876db802ea70de4c7baddd668a8dbe49d20893a04650e02025daf9d9ec24994e12d2a6fee025112723124fc947dd691e637e23ff0504dceec3b26b4f10507b6b4e1d3dd2f9068a78baecd5d529a81
 webhook: /_git-sync-227a821a0a86
 webhook_enabled: '1'
 webhook_secret: 4db7bffb7e0946b97be76dfa0e12d6c5d3dfdac96665f414
