@@ -1,0 +1,30 @@
+enabled: true
+folders:
+  - pages
+  - config
+  - themes
+  - localhost
+  - storychatradio.com
+sync:
+  on_save: true
+  on_delete: true
+  on_media: true
+  cron_enable: false
+  cron_at: '0 12,23 * * *'
+repository: 'https://github.com/nhayward/story-chat-radio.git'
+user: nhayward
+password: gitsync-def50200e68d87bb5c102e9ccc2f27d0da6bf787c486986c04206b08e21eac7c704793b12aed598fc32c0f9db86329bfae25e299ff0f48224a75d7d38aeadff778538f04519f88ae22908a1c39c6360ce9b8aef197ae7e97a3c2e4c7d8
+webhook: /_git-sync-227a821a0a86
+webhook_enabled: '1'
+webhook_secret: 4db7bffb7e0946b97be76dfa0e12d6c5d3dfdac96665f414
+branch: master
+remote:
+  name: origin
+  branch: master
+git:
+  author: gitsync
+  message: '(Grav GitSync) Automatic Commit'
+  name: GitSync
+  email: git-sync@trilby.media
+  bin: git
+logging: true
