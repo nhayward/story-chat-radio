@@ -1,0 +1,6 @@
+{% for link in page.header.link_tags %}
+  <link type="{{ link.type }}"
+        rel="{{ link.rel }}"
+        title="{{ link.title }}"
+        href="{{ link.href }}"/>
+{% endfor %}
