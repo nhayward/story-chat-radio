@@ -1,7 +1,6 @@
 ---
 title: 'The Dark Crystal - Worldbuilding'
 published: false
-date: '29-10-2019 00:00'
 publish_date: '27-10-2019 00:00'
 ---
 
