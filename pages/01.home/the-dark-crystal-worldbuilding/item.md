@@ -1,6 +1,6 @@
 ---
 title: 'The Dark Crystal - Worldbuilding'
-media_order: 'dark-crystal.jpg,DarkCrystal_Synopsis.png'
+media_order: dark-crystal.jpg
 published: true
 date: '29-10-2019 00:00'
 publish_date: '29-10-2019 00:00'
