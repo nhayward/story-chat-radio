@@ -1,5 +1,6 @@
 ---
 title: 'The Dark Crystal - Worldbuilding'
+media_order: 'dark-crystal.jpg,DarkCrystal_Synopsis.png'
 published: true
 date: '29-10-2019 00:00'
 publish_date: '29-10-2019 00:00'
@@ -10,6 +11,8 @@ publish_date: '29-10-2019 00:00'
 Welcome to Story Chat Radio. We are book editors Carly Hayward and Jeni Chappelle. Every month we watch a different movie with an eye for storytelling and novel writing. We use our training and years of experience editing novels to break down each movie’s storytelling elements to help you improve your novel-in-progress. So no matter your path to publication or where you’re at in your publishing journey, Story Chat Radio can help you improve your writing. 
 
 On this week’s episode, we are discussing the 1980s Jim Henson film _The Dark Crystal_. And then we’ll end with a critique of one lucky author’s blurb.
+
+![](DarkCrystal_Synopsis.png){.float-left}
 
 **Carly:** What did you think about _The Dark Crystal_?
 
