@@ -1,7 +1,7 @@
 ---
 title: 'Spider-Man:Into the Spider-Verse - Voice'
 media_order: spider-man-into-the-spider-verse.jpg
-published: false
+published: true
 publish_date: '31-12-2019 00:01'
 ---
 
