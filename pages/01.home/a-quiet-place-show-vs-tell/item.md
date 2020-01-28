@@ -1,7 +1,7 @@
 ---
 title: 'A Quiet Place - Show vs Tell'
 media_order: A-Quiet-Place.png
-published: false
+published: true
 publish_date: '28-01-2020 00:00'
 ---
 
