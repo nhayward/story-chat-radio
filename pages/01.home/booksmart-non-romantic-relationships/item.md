@@ -1,6 +1,6 @@
 ---
 title: 'Booksmart - Non-Romantic Relationships'
-published: false
+published: true
 ---
 
 On this episode, we are discussing the best friend comedy, _Booksmart_. And then we’ll end with a critique of one lucky author’s query. 
