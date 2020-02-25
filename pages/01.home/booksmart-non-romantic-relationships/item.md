@@ -4,6 +4,8 @@ published: false
 publish_date: '25-02-2020 00:00'
 ---
 
+<iframe style="border: none" src="//html5-player.libsyn.com/embed/episode/id/13286576/height/360/theme/legacy/thumbnail/yes/direction/backward/" height="360" width="100%" scrolling="no"  allowfullscreen webkitallowfullscreen mozallowfullscreen oallowfullscreen msallowfullscreen></iframe>
+
 On this episode, we are discussing the best friend comedy, _Booksmart_. And then we’ll end with a critique of one lucky author’s query. 
 
 **Summary of this month’s movie: **
