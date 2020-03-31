@@ -4,6 +4,8 @@ published: false
 publish_date: '31-03-2020 00:00'
 ---
 
+<iframe style="border: none" src="//html5-player.libsyn.com/embed/episode/id/13771340/height/360/theme/legacy/thumbnail/yes/direction/backward/" height="360" width="100%" scrolling="no"  allowfullscreen webkitallowfullscreen mozallowfullscreen oallowfullscreen msallowfullscreen></iframe>
+
 On this episode, we are discussing the iconic classic and possibly most quotable movie ever, _The Princess Bride_. And then we’ll end with a critique of one lucky author’s query. 
 
 **Summary of this month’s movie: **
