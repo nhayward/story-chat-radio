@@ -1,6 +1,7 @@
 ---
 title: 'Knives Out - Mysteries'
 published: false
+publish_date: '26-05-2020 00:00'
 ---
 
 On this episode, we are discussing the instant classic, _Knives Out_. And then we’ll end with a critique of one lucky author’s query. 
