@@ -6,10 +6,10 @@ blog_header: 'Two book editors binge watch movies in search of storytelling gems
 content:
     items:
         - '@self.children'
-    limit: 5
+    limit: 12
     order:
         by: date
-        dir: asc
+        dir: desc
     pagination: true
     url_taxonomy_filters: true
 link_tags:
