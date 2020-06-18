@@ -32,6 +32,11 @@ Here come the spoilers! This movie revolves around wealthy mystery writer--yes, 
 
 **Jeni:** I agree with everything you just said. I want to add a bit. The heart of urban fantasy is really mystery, and like Carly said, at the end of the query you hint at a mystery. But because this really needs to be the main plot of your story, the query also really needs to focus on that. The other issue that gives the query a sense of vagueness is that you use a lot of “million dollar words.” Some of them are big words, but what’s more important is that they aren’t really words we’d use in casual conversation so it creates an air of overformality--is that a word? OMG AM I USING MILLION DOLLAR WORDS?? I may be questioning my whole existence now-- Anyway, that can create a distance for your reader. Keep queries simple for the most part. Choose one or two places per paragraph to use more majestic wording, but do it with intent to create tension.
 
-##### On our next podcast we will be discussing the Greta Gerwig version of _Little Women_. We will also have another query or blurb critique. If you want your query featured on the podcast, you can find the details about how to do that on our Twitter page. 
+##### On our next podcast we will be discussing the Greta Gerwig version of _Little Women_. We will also have another query or blurb critique. If you want your query featured on the podcast, you can find the details about how to do that below or on our Twitter page. 
 
 ##### You can also find our podcast on our website, storychatradio.com. Or you can follow us on [Spotify](https://open.spotify.com/show/3o7zYGOeJMHfKFdCrhlILb?target=_blank), [iTunes](https://podcasts.apple.com/us/podcast/story-chat-radio/id1483688097?target=_blank), [Google Play Music](https://play.google.com/music/m/Ig4hfs2ujhxenoikqvovs6hgtlu?target=_blank), or many other streaming services. While you’re there, please leave us a rating. You can also follow us on [Twitter](http://www.twitter.com/storychatradio?target=_blank) and [Instagram](http://www.instagram.com/storychatradio?target=_blank) @StoryChatRadio.
+
+#### Enter to win a query/blurb critique here:
+
+<a class="rcptr" href="http://www.rafflecopter.com/rafl/display/aed251ca5/" rel="nofollow" data-raflid="aed251ca5" data-theme="classic" data-template="" id="rcwidget_cqelam0v">a Rafflecopter giveaway</a>
+<script src="https://widget-prime.rafflecopter.com/launch.js"></script>
