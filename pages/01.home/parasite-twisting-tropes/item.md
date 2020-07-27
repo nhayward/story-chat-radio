@@ -1,5 +1,8 @@
 ---
 title: 'Parasite - Twisting Tropes'
+published: false
+publish_date: '28-07-2020 00:00'
+unpublish_date: '28-07-2020 00:00'
 ---
 
 On this episode, we are discussing the black comedy _Parasite_. And then we’ll end with a critique of one lucky author’s query.  
