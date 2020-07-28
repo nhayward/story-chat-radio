@@ -1,6 +1,6 @@
 ---
 title: 'Parasite - Twisting Tropes'
-published: false
+published: true
 publish_date: '28-07-2020 00:00'
 unpublish_date: '28-07-2020 00:00'
 ---
