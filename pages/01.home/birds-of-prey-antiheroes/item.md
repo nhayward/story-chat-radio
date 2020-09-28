@@ -2,7 +2,7 @@
 title: 'Birds of Prey - Antiheroes'
 ---
 
-On this episode, we are discussing the superhero movie, Birds of Prey. And then we’ll end with a critique of one lucky author’s query.  
+**Summary of this month’s movie:**
 
 Here come the spoilers! This month’s summary is kinda long because we have five main characters, but I’ll keep it as brief as possible. 
 After a bad breakup with Joker, Harley Quinn publicly announces their breakup by blowing up the Ace Chemicals plant. Gotham City Detective Renee Montoya—our second protagonist—investigates a series of mob killings carried out by a crossbow-wielding vigilante, finds Harley's necklace at the scene of the explosion, and asks Dinah Lance (our third main character), nightclub-singer-turned-new-driver to mob boss Sionis, to become a confidential informant. Sionis sends Dinah to retrieve a diamond important to the Bertinelli crime family, who were massacred years ago. Young pickpocket Cassandra Cain (the fourth main character) steals the diamond and swallows it after she is arrested. To get the diamond, Harley breaks into the police department with her cartoonish weapons and frees Cassandra, and the pair escape. They meet the "crossbow killer," who is Helena Bertinelli (the final main character). She has been targeting each of the gangsters responsible for her family's murders.
@@ -52,7 +52,7 @@ Okay, Carly, so it’s quiz time. Which character do you think is which kind of 
 
 **Jeni:** It’s important to be specific with your genre and make sure you have comps that match. These comps are both good for theme, but the genre feels a little off because they’re thrillers instead of superhero stories. There are some popular superhero stories out there though. Consider replacing one of your comps with one of those as a sort of X meets Y thing. There’s a hint of humor in this query that makes me think maybe James Alan Gardner’s Dark/Spark series might be a good comp, or maybe look at V.E. Schwab’s Villains series. 
 
-Carly: On our next podcast we will be discussing the horror film, Get Out. We will also have another query or blurb critique. If you want your query featured on the podcast, you can find the details about how to do that on our website or Twitter page.  
+##### On our next podcast we will be discussing the horror film, Get Out. We will also have another query or blurb critique. If you want your query featured on the podcast, you can find the details about how to do that on our website or Twitter page.  
 
 ##### You can also find our podcast on our website, storychatradio.com. Or you can follow us on [Spotify](https://open.spotify.com/show/3o7zYGOeJMHfKFdCrhlILb?target=_blank), [Apple Podcasts](https://podcasts.apple.com/us/podcast/story-chat-radio/id1483688097?target=_blank), [Google Podcasts](https://podcasts.google.com/?feed=aHR0cHM6Ly9zdG9yeWNoYXRyYWRpby5saWJzeW4uY29tL3Jzcw&ep=14), or many other streaming services. While you’re there, please leave us a rating. You can also follow us on [Twitter](http://www.twitter.com/storychatradio?target=_blank) and [Instagram](http://www.instagram.com/storychatradio?target=_blank) @StoryChatRadio.
 
