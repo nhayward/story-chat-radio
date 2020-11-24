@@ -87,11 +87,11 @@ Act 1: introduce characters, story and understand where story is going
 * once upon a time, we meet protagonist
 * every day, story setting
 * until one day (the inciting incident)
-* 
+
 Act 2: have main character choose and act while overcoming obstacles towards a goal
 * Because of that (conflict)
 * Because of that (conflict)
-* 
+
 Act 3: have character meet final challenge and resolve the story
 * Until finally (climax)
 * And ever since that day (denouement)
