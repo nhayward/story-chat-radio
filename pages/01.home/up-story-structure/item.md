@@ -1,6 +1,5 @@
 ---
 title: 'Up - Story Structure'
-published: true
 date: '24-11-2020 00:01'
 publish_date: '24-11-2020 00:01'
 ---
