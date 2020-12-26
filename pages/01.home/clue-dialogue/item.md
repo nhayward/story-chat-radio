@@ -1,5 +1,8 @@
 ---
 title: 'Clue - Dialogue'
+published: true
+date: '29-12-2020 00:05'
+publish_date: '29-12-2020 00:05'
 ---
 
 **Summary of this month’s movie:**
