@@ -3,6 +3,8 @@ title: 'The Shape of Water - Theme'
 published: false
 ---
 
+<iframe style="border: none" src="//html5-player.libsyn.com/embed/episode/id/17688626/height/360/theme/legacy/thumbnail/yes/direction/backward/" height="360" width="100%" scrolling="no"  allowfullscreen webkitallowfullscreen mozallowfullscreen oallowfullscreen msallowfullscreen></iframe>
+
 **Summary of this month’s movie:**
 
 Here come the spoilers! Elisa lives a very routine, boring life as a cleaner at a secret government facility in Baltimore, Maryland in 1962, during the Cold War. Her only friends are her closeted next-door neighbor, Giles and her co-worker, Zelda. The facility receives a mysterious creature captured from a South American river by Colonel Strickland, who is in charge of the project, to study it. Curious about the creature, Elisa discovers it is a humanoid amphibian. She begins visiting him in secret, and the two form a close bond as Elisa, who is mute, communicates with him by teaching him signs.
