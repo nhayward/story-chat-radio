@@ -5,6 +5,8 @@ date: '30-03-2021 00:05'
 publish_date: '30-03-2021 00:05'
 ---
 
+<iframe style="border: none" src="//html5-player.libsyn.com/embed/episode/id/18523262/height/360/theme/legacy/thumbnail/yes/direction/backward/" height="360" width="100%" scrolling="no"  allowfullscreen webkitallowfullscreen mozallowfullscreen oallowfullscreen msallowfullscreen></iframe>
+
 **Summary of this month’s movie:**
 
 Here come the spoilers! Sophie, a young hatmaker, lives a lonely and seemingly boring life. On her way to visit her sister Lettie, she encounters a wizard named Howl with a reputation for eating the hearts of beautiful girls--I wasn’t sure if that was metaphorical or literal at that point. When she returns home, she meets the Witch of the Waste who transforms her into a ninety-year-old woman, seemingly because she’s obsessed with Howl and upset at his attention to Sophie. Seeking to break the curse, Sophie leaves home and sets off through the countryside. She finds Howl's moving castle, a giant magical hodgepodge of a house that walks on mechanical/magical legs. Here she meets Howl's young apprentice Markl and a fire demon named Calcifer, who is the source of the castle's magic and movement, who makes a deal with Sophie to break her curse if she breaks his link with Howl. 
