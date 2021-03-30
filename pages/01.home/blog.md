@@ -6,7 +6,7 @@ blog_header: 'Two book editors binge watch movies in search of storytelling gems
 content:
     items:
         - '@self.children'
-    limit: 18
+    limit: 50
     order:
         by: date
         dir: desc
