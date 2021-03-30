@@ -1,6 +1,6 @@
 ---
 title: 'Howl''s Moving Castle - Opening Pages'
-published: false
+published: true
 date: '30-03-2021 00:05'
 publish_date: '30-03-2021 00:05'
 ---
