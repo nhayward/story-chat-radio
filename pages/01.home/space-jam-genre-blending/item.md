@@ -4,6 +4,8 @@ date: '25-05-2021 00:02'
 publish_date: '25-05-2021 00:02'
 ---
 
+<iframe style="border: none" src="//html5-player.libsyn.com/embed/episode/id/19223048/height/360/theme/legacy/thumbnail/yes/direction/backward/" height="360" width="100%" scrolling="no"  allowfullscreen webkitallowfullscreen mozallowfullscreen oallowfullscreen msallowfullscreen></iframe>
+
 **Summary of this month’s movie:**
 
 Here come the spoilers! We start with a young Michael Jordan telling his father he wants to go to The University of North Carolina at Chapel Hill to play in the championship team, then go to the NBA. A highlight reel of his basketball career plays during the opening credits, followed by an excerpt from the press conference in which Jordan announced his retirement from basketball to pursue a career in baseball.
