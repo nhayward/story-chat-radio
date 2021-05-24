@@ -36,6 +36,11 @@ This month our query is also an adult science fiction. And it has perfect 90s th
 
 **Jeni:** Umm … the bio is a little long and mentions taking general writing classes, which isn’t really relevant, I’m afraid. I’d take that out. But otherwise, this query looks great to me. And the premise absolutely breaks my heart. 
 
+##### Next month, we will be watching another 90's classic, _The Mummy_. We will also have another query or blurb critique. If you want your query featured on the podcast, you can find the details about how to do that on our website or Twitter page.  
+
+##### You can also find our podcast on our website, storychatradio.com. Or you can follow us on [Spotify](https://open.spotify.com/show/3o7zYGOeJMHfKFdCrhlILb?target=_blank), [Apple Podcasts](https://podcasts.apple.com/us/podcast/story-chat-radio/id1483688097?target=_blank), [Google Podcasts](https://podcasts.google.com/?feed=aHR0cHM6Ly9zdG9yeWNoYXRyYWRpby5saWJzeW4uY29tL3Jzcw&ep=14), or many other streaming services. While you’re there, please leave us a rating. You can also follow us on [Twitter](http://www.twitter.com/storychatradio?target=_blank) and [Instagram](http://www.instagram.com/storychatradio?target=_blank) @StoryChatRadio.
+
+#### Enter to win a query/blurb critique here:
 
 <a class="rcptr" href="http://www.rafflecopter.com/rafl/display/aed251ca17/" rel="nofollow" data-raflid="aed251ca17" data-theme="classic" data-template="" id="rcwidget_jka0z05p">a Rafflecopter giveaway</a>
 <script src="https://widget-prime.rafflecopter.com/launch.js"></script>
