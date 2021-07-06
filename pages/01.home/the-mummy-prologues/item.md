@@ -1,7 +1,7 @@
 ---
 title: 'The Mummy - Prologues'
 media_order: 'the mummy.jpg'
-published: false
+published: true
 ---
 
 <iframe style="border: none" src="//html5-player.libsyn.com/embed/episode/id/19702331/height/360/theme/legacy/thumbnail/yes/direction/backward/" height="360" width="100%" scrolling="no"  allowfullscreen webkitallowfullscreen mozallowfullscreen oallowfullscreen msallowfullscreen></iframe>
