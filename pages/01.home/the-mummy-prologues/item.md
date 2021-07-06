@@ -1,7 +1,7 @@
 ---
 title: 'The Mummy - Prologues'
 media_order: 'the mummy.jpg'
-published: false
+published: true
 date: '06-07-2021 00:05'
 publish_date: '06-07-2021 00:05'
 ---
