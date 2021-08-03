@@ -1,6 +1,6 @@
 ---
 title: 'Eternal Sunshine of the Spotless Mind - Unreliable Narrators'
-published: false
+published: true
 ---
 
 <iframe style="border: none" src="//html5-player.libsyn.com/embed/episode/id/20014031/height/360/theme/legacy/thumbnail/yes/direction/backward/" height="360" width="100%" scrolling="no"  allowfullscreen webkitallowfullscreen mozallowfullscreen oallowfullscreen msallowfullscreen></iframe>
