@@ -3,6 +3,8 @@ title: 'Eternal Sunshine of the Spotless Mind - Unreliable Narrators'
 published: false
 ---
 
+<iframe style="border: none" src="//html5-player.libsyn.com/embed/episode/id/20014031/height/360/theme/legacy/thumbnail/yes/direction/backward/" height="360" width="100%" scrolling="no"  allowfullscreen webkitallowfullscreen mozallowfullscreen oallowfullscreen msallowfullscreen></iframe>
+
 As a reminder, you can now support the podcast on Patreon, where you can read the queries we critique plus get lots of other bonus content. It’s easy to find, just [patreon.com/storychatradio](https://www.patreon.com/storychatradio?target=_blank)!
 
 **Summary of this month’s movie:**
