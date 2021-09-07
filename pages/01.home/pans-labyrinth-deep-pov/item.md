@@ -1,6 +1,6 @@
 ---
 title: 'Pan''s Labyrinth - Deep POV'
-published: false
+published: true
 ---
 
 <iframe style="border: none" src="//html5-player.libsyn.com/embed/episode/id/20385875/height/360/theme/legacy/thumbnail/yes/direction/backward/" height="360" width="100%" scrolling="no"  allowfullscreen webkitallowfullscreen mozallowfullscreen oallowfullscreen msallowfullscreen></iframe>
