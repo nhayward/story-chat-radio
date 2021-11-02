@@ -6,7 +6,7 @@ image_align: left
 
 # Welcome to Story Chat Radio!
 
-![](StoryChatRadio%20-%20without%20movie%20screen_small.png){.float-left}
+![Story Chat Radio](StoryChatRadio%20-%20without%20movie%20screen_small.png){.float-left}
 
 We are book editors Carly Hayward and Jeni Chappelle, and we put ourselves through the arduous tasks of picking movies. And then watching the movies. And then thinking and talking about the movies. Not to mention the popcorn.
 
