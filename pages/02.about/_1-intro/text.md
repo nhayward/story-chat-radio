@@ -20,4 +20,4 @@ Like and subscribe to the podcast on [Apple Podcasts](https://podcasts.apple.com
 
 You can reach us on [Twitter](https://twitter.com/StoryChatRadio?target=_blank), [Instagram](https://www.instagram.com/storychatradio?target=_blank), or via email at storychatradio@gmail.com.
 
-If you're interested in supporting the podcast and getting extra tidbits: [![Patreon](become_a_patron_button.png)](https://www.patreon.com/storychatradio?target=_blank)
+If you're interested in supporting the podcast and getting extra tidbits: [![Patreon](become_a_patron_button.png?cropResize=200,200)](https://www.patreon.com/storychatradio?target=_blank)
