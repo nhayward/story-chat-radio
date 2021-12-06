@@ -3,6 +3,8 @@ title: 'Shang-Chi and the Legend of the Ten Rings - Emotional Wounds'
 published: false
 ---
 
+<iframe title="Libsyn Player" style="border: none" src="//html5-player.libsyn.com/embed/episode/id/21398366/height/360/theme/legacy/thumbnail/yes/direction/backward/" height="360" width="100%" scrolling="no"  allowfullscreen webkitallowfullscreen mozallowfullscreen oallowfullscreen msallowfullscreen></iframe>
+
 #### Just as a reminder, you can now support the podcast on Patreon, where you can read the queries we critique plus get lots of other bonus content. It’s easy to find, just go to [patreon.com/storychatradio](https://www.patreon.com/storychatradio?target=_blank).
 
 **Summary of this month’s movie:**
