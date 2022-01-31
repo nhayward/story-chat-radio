@@ -2,6 +2,10 @@
 title: 'Train to Busan - Settings'
 ---
 
+#### Just as a reminder, you can now support the podcast on Patreon, where you can read the queries we critique plus get lots of other bonus content. It’s easy to find, just go to [patreon.com/storychatradio](https://www.patreon.com/storychatradio?target=_blank).
+
+**Summary of this month’s movie:**
+
 Here come the spoilers! A chemical leak at a biotech plant creates zombies. Fund manager Seok-woo is a cynical workaholic and divorced father. His young daughter Su-an wants to spend her birthday with her mom in Busan. Overcome with guilt, he decides to take her via an early train. Other passengers include a working-class man and his pregnant wife, a selfish COO, a high school baseball team, and a homeless stowaway, among others.
 
 As the train departs, an infected woman runs aboard and attacks an attendant, and many people are quickly turned into zombies. The survivors notice the zombies only attack if they can see them or hear them but can’t open the doors. They learn from news reports that this is rapidly spreading across the country. The train stops at a station supposedly secured by the army, and the passengers disembark into a vacant station but find the soldiers are all zombies. Several passengers make it back safely but are separated into two groups, one in the front car and the other in the back. 
@@ -36,4 +40,11 @@ Our query this month is an adult dark fantasy. Carly, what are your thoughts on 
 
 **Jeni:** There are a few elements here that definitely pique my interest. It’s historical and there’s a large mystery element, with a female sleuth. But the finer details feel kind of vague. I’m not 100% sure what actually happens in this story, other than the mystery itself. And the author mentions some real-life historical events in the final paragraph, but it isn’t clear to me what the connection is to the plot as described in the query. I definitely think one part of the problem is that the sentences are all pretty long and have similar structures. Even in a query letter, you want varied sentence length and structure to create variety and keep the reader engaged. And don’t be afraid to give more details. This is something I see a lot, where the author wants to create a sense of mystery around the story by having this strong hook so they leave out important details. Write this down: Details in a query don’t spoil anything. They get us more excited for the unique elements of your story. Depending on the story and how much of a twist it has, you can sometimes give details as far in as just before the climax without spoiling too much. 
 
-Carly: Next month, we will be watching the Disney movie whose songs are stuck in everyone’s heads, _Encanto_. We will also have another query or blurb critique. If you want your query featured on the podcast, you can find the details about how to do that on our website or Twitter page.
+##### Next month, we will be watching the Disney movie whose songs are stuck in everyone’s heads, _Encanto_. We will also have another query or blurb critique. If you want your query featured on the podcast, you can find the details about how to do that on our website or Twitter page.
+
+##### You can also find our podcast on our website, storychatradio.com. Or you can follow us on [Spotify](https://open.spotify.com/show/3o7zYGOeJMHfKFdCrhlILb?target=_blank), [Apple Podcasts](https://podcasts.apple.com/us/podcast/story-chat-radio/id1483688097?target=_blank), [Google Podcasts](https://podcasts.google.com/?feed=aHR0cHM6Ly9zdG9yeWNoYXRyYWRpby5saWJzeW4uY29tL3Jzcw&ep=14), or many other streaming services. While you’re there, please leave us a rating. You can support the show and get extra content at [patreon.com/storychatradio](https://www.patreon.com/storychatradio?target=_blank). You can also follow us on [Twitter](http://www.twitter.com/storychatradio?target=_blank) and [Instagram](http://www.instagram.com/storychatradio?target=_blank) @StoryChatRadio.
+
+#### Enter to win a query/blurb critique here: 
+
+<a class="rcptr" href="http://www.rafflecopter.com/rafl/display/aed251ca26/" rel="nofollow" data-raflid="aed251ca26" data-theme="classic" data-template="" id="rcwidget_shfx6y6y">a Rafflecopter giveaway</a>
+<script src="https://widget-prime.rafflecopter.com/launch.js"></script>
