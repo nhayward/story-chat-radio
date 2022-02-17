@@ -1,5 +1,7 @@
 ---
 title: 'Get Out - Satisfying Endings'
+date: '30-10-2020 17:52'
+publish_date: '30-10-2020 17:52'
 ---
 
 <iframe style="border: none" src="//html5-player.libsyn.com/embed/episode/id/16621670/height/360/theme/legacy/thumbnail/yes/direction/backward/" height="360" width="100%" scrolling="no"  allowfullscreen webkitallowfullscreen mozallowfullscreen oallowfullscreen msallowfullscreen></iframe>
