@@ -1,6 +1,5 @@
 ---
 title: 'Encanto - Character Arc'
-published: true
 date: '01-03-2022 00:01'
 publish_date: '01-03-2022 00:01'
 ---
