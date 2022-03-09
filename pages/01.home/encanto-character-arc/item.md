@@ -2,6 +2,9 @@
 title: 'Encanto - Character Arc'
 date: '01-03-2022 00:01'
 publish_date: '01-03-2022 00:01'
+metadata:
+    keywords: 'writing, podcast, how-to, character arc'
+    description: 'Two book editors binge watch movies in search of storytelling gems - on this episode they discuss character arc as seen in the movie, Encanto'
 ---
 
 <iframe title="Embed Player" src="//play.libsyn.com/embed/episode/id/22233542/height/192/theme/modern/size/large/thumbnail/yes/custom-color/39918e/time-start/00:00:00/playlist-height/200/direction/backward" height="192" width="100%" scrolling="no" allowfullscreen="" webkitallowfullscreen="true" mozallowfullscreen="true" oallowfullscreen="true" msallowfullscreen="true" style="border: none;"></iframe>
