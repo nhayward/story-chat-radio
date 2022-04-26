@@ -1,6 +1,5 @@
 ---
 title: 'Star Wars - Writing a Series'
-published: true
 date: '03-05-2022 00:05'
 publish_date: '03-05-2022 00:05'
 ---
