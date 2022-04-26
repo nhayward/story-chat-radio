@@ -1,6 +1,8 @@
 ---
 title: 'Star Wars - Writing a Series'
 published: true
+date: '03-05-2022 00:05'
+publish_date: '03-05-2022 00:05'
 ---
 
 <iframe title="Libsyn Player" style="border: none" src="//html5-player.libsyn.com/embed/episode/id/22921703/height/360/theme/legacy/thumbnail/yes/direction/backward/" height="360" width="100%" scrolling="no"  allowfullscreen webkitallowfullscreen mozallowfullscreen oallowfullscreen msallowfullscreen></iframe>
