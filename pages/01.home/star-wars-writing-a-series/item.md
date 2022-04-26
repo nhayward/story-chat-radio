@@ -1,5 +1,6 @@
 ---
 title: 'Star Wars - Writing a Series'
+published: false
 ---
 
 And we are also very excited to announce that our podcast is now available on YouTube. This episode, 28, as well as many previous episodes are already available, and we will be adding back episodes as quickly as we can. So right now, pause the show, head over to YouTube (the link is on our site and link tree on social media), subscribe, and come back. We’ll wait. https://www.youtube.com/channel/UCVgBO3mHLqhtVZWRn0BmFEA
