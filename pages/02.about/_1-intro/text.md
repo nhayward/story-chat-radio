@@ -16,7 +16,7 @@ Every month we watch a different movie with an eye for storytelling and novel wr
 
 At the end of each show we critique a blurb/query submitted by one lucky writer. The only requirement: your piece must be related to/comp that month’s movie. (Interested in submitting? Follow along on [Twitter](https://twitter.com/StoryChatRadio?target=_blank) where we will make a call for submissions)
 
-Like and subscribe to the podcast on [Apple Podcasts](https://podcasts.apple.com/us/podcast/story-chat-radio/id1483688097?target=_blank), [Spotify](https://open.spotify.com/show/3o7zYGOeJMHfKFdCrhlILb?target=_blank), and [Google Podcasts](https://podcasts.google.com/?feed=aHR0cHM6Ly9zdG9yeWNoYXRyYWRpby5saWJzeW4uY29tL3Jzcw&ep=14).
+Like and subscribe to the podcast on [Apple Podcasts](https://podcasts.apple.com/us/podcast/story-chat-radio/id1483688097?target=_blank), [Spotify](https://open.spotify.com/show/3o7zYGOeJMHfKFdCrhlILb?target=_blank), [Google Podcasts](https://podcasts.google.com/?feed=aHR0cHM6Ly9zdG9yeWNoYXRyYWRpby5saWJzeW4uY29tL3Jzcw&ep=14), and [YouTube](https://www.youtube.com/channel/UCVgBO3mHLqhtVZWRn0BmFEA?target=_blank).
 
 You can reach us on [Twitter](https://twitter.com/StoryChatRadio?target=_blank), [Instagram](https://www.instagram.com/storychatradio?target=_blank), or via email at storychatradio@gmail.com.
 
