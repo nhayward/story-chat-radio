@@ -4,6 +4,12 @@ title: 'The Favourite - Scene Structure'
 
 <iframe title="Embed Player" src="//play.libsyn.com/embed/episode/id/23345798/height/192/theme/modern/size/large/thumbnail/yes/custom-color/39918e/time-start/00:00:00/playlist-height/200/direction/backward" height="192" width="100%" scrolling="no" allowfullscreen="" webkitallowfullscreen="true" mozallowfullscreen="true" oallowfullscreen="true" msallowfullscreen="true" style="border: none;"></iframe>
 
+#### Just as a reminder, you can now support the podcast on Patreon, where you can read the queries we critique plus get lots of other bonus content. It’s easy to find, just go to [patreon.com/storychatradio](https://www.patreon.com/storychatradio?target=_blank). 
+
+#### And we are also very excited to announce that our [podcast is now available on YouTube](https://www.youtube.com/channel/UCVgBO3mHLqhtVZWRn0BmFEA?target=_blank). This episode, 28, as well as many previous episodes are already available, and we will be adding back episodes as quickly as we can. 
+
+**Summary of this month’s movie:**
+
 Here come the spoilers! It’s the early 1700s. England is at war with the French. Queen Anne is middle-age, temperamental and chronically ill. Harley, a member of Parliament, is desperate to stop the war. But more prominent members insist it continue. Sarah, Anne’s childhood friend and clever advisor, convinces the queen to support the war, as it is good for Sarah and her husband.
 
 Sarah's cousin, Abigail, arrives at the Queen's estate, kind and desperate for a job. Sarah makes her a maid. When Abigail picks herbs to ease a painful gout attack of Anne’s, Sarah is impressed and takes Abigail on as her assistant. Abigail finds out by accident that Sarah and Anne are lovers. Harley asks Abigail to spy on Sarah and Anne and bring him anything he can use to help him curry favor with the Queen. Abigail refuses.
@@ -37,13 +43,11 @@ This month our query is an adult contemporary fantasy. Jeni, what are your thoug
 
 **Carly:** Okay, so this one needs a good amount of work. It has an interesting hook that pulls me in, but then the next paragraph goes on to talk about a bunch of different elements. It’s hard to connect to any one thing because there is too much going on. We’ve got family conflict, a love plot, a magic system, a coming of age story, hidden identities, and quests. Because we’ve got so many elements, we can’t focus on the important story aspects that lead to the main conflict and stakes. I can’t tell how each element is tied together, they all feel disparate. What are the main character’s motivations for doing the thing, what is the thing, and what will happen if she doesn’t do the thing? Those are the main elements to focus on to write a really compelling query. Streamline the rest. If you do, I think it will be really successful! 
 
+##### Next month, we are watching the cult classic, _Willow_. We will also have another query or blurb critique. If you want your query featured on the podcast, you can find the details about how to do that on our website or Twitter page.  
 
-Carly: Next month, we are watching the cult classic, Willow. We will also have another query or blurb critique. If you want your query featured on the podcast, you can find the details about how to do that on our website or Twitter page.  
+##### You can also find our podcast on our website, storychatradio.com and on [YouTube](https://www.youtube.com/channel/UCVgBO3mHLqhtVZWRn0BmFEA?target=_blank). Or you can follow us on [Spotify](https://open.spotify.com/show/3o7zYGOeJMHfKFdCrhlILb?target=_blank), [Apple Podcasts](https://podcasts.apple.com/us/podcast/story-chat-radio/id1483688097?target=_blank), [Google Podcasts](https://podcasts.google.com/?feed=aHR0cHM6Ly9zdG9yeWNoYXRyYWRpby5saWJzeW4uY29tL3Jzcw&ep=14), or many other streaming services. And we're now on [YouTube](https://www.youtube.com/channel/UCVgBO3mHLqhtVZWRn0BmFEA?target=_blank)! While you’re there, please leave us a rating. You can support the show and get extra content at [patreon.com/storychatradio](https://www.patreon.com/storychatradio?target=_blank). You can also follow us on [Twitter](http://www.twitter.com/storychatradio?target=_blank) and [Instagram](http://www.instagram.com/storychatradio?target=_blank) @StoryChatRadio.
 
-Jeni: You can find our podcast on our website, storychatradio.com. Or you can follow us on Spotify, Apple Podcasts, Google Podcasts, or many other streaming services. While you’re there, please leave us a rating. You can see this month’s query in its entirety and support the show at patreon.com/storychatradio. You can also follow us on Twitter and Instagram @StoryChatRadio. 
-
-
-Rafflecopter
+#### Enter to win a query/blurb critique here: 
 
 <a class="rcptr" href="http://www.rafflecopter.com/rafl/display/aed251ca31/" rel="nofollow" data-raflid="aed251ca31" data-theme="classic" data-template="" id="rcwidget_uyvsl702">a Rafflecopter giveaway</a>
 <script src="https://widget-prime.rafflecopter.com/launch.js"></script>
