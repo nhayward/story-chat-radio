@@ -6,7 +6,7 @@ title: 'The Favourite - Scene Structure'
 
 #### Just as a reminder, you can now support the podcast on Patreon, where you can read the queries we critique plus get lots of other bonus content. It’s easy to find, just go to [patreon.com/storychatradio](https://www.patreon.com/storychatradio?target=_blank). 
 
-#### And we are also very excited to announce that our [podcast is now available on YouTube](https://www.youtube.com/channel/UCVgBO3mHLqhtVZWRn0BmFEA?target=_blank). This episode, 28, as well as many previous episodes are already available, and we will be adding back episodes as quickly as we can. 
+##### And we are also very excited to announce that our [podcast is now available on YouTube](https://www.youtube.com/channel/UCVgBO3mHLqhtVZWRn0BmFEA?target=_blank). 
 
 **Summary of this month’s movie:**
 
