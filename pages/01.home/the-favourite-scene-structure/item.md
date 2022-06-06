@@ -6,8 +6,6 @@ title: 'The Favourite - Scene Structure'
 
 #### Just as a reminder, you can now support the podcast on Patreon, where you can read the queries we critique plus get lots of other bonus content. It’s easy to find, just go to [patreon.com/storychatradio](https://www.patreon.com/storychatradio?target=_blank). 
 
-##### And we are also very excited to announce that our [podcast is now available on YouTube](https://www.youtube.com/channel/UCVgBO3mHLqhtVZWRn0BmFEA?target=_blank). 
-
 **Summary of this month’s movie:**
 
 Here come the spoilers! It’s the early 1700s. England is at war with the French. Queen Anne is middle-age, temperamental and chronically ill. Harley, a member of Parliament, is desperate to stop the war. But more prominent members insist it continue. Sarah, Anne’s childhood friend and clever advisor, convinces the queen to support the war, as it is good for Sarah and her husband.
