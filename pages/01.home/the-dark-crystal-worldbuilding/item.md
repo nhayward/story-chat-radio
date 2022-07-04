@@ -4,6 +4,9 @@ media_order: dark-crystal.jpg
 published: true
 date: '29-10-2019 00:00'
 publish_date: '29-10-2019 00:00'
+metadata:
+    keywords: 'books, podcast, writing, how-to, worldbuilding'
+    description: 'Two book editors binge watch movies in search of storytelling gems - on this episode they discuss worldbuilding as seen in the movie, The Dark Crystal'
 ---
 
 <iframe style="border: none" src="//html5-player.libsyn.com/embed/episode/id/11787971/height/360/theme/legacy/thumbnail/yes/direction/backward/" height="360" width="100%" scrolling="no"  allowfullscreen webkitallowfullscreen mozallowfullscreen oallowfullscreen msallowfullscreen></iframe>
