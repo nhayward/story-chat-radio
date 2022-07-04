@@ -3,6 +3,9 @@ title: 'Parasite - Twisting Tropes'
 published: true
 date: '28-07-2020 17:54'
 publish_date: '28-07-2020 00:00'
+metadata:
+    keywords: 'books, podcast, writing, how-to, tropes, twisting tropes'
+    description: 'Two book editors binge watch movies in search of storytelling gems - on this episode they discuss twisting tropes as seen in the movie, Parasite'
 ---
 
 <iframe style="border: none" src="//html5-player.libsyn.com/embed/episode/id/15374765/height/360/theme/legacy/thumbnail/yes/direction/backward/" height="360" width="100%" scrolling="no"  allowfullscreen webkitallowfullscreen mozallowfullscreen oallowfullscreen msallowfullscreen></iframe>
