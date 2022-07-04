@@ -1,7 +1,11 @@
 ---
 title: 'Booksmart - Non-Romantic Relationships'
 published: true
+date: '25-02-2020 00:00'
 publish_date: '25-02-2020 00:00'
+metadata:
+    keywords: 'books, podcast, writing, how-to, non-romantic relationships, relationships'
+    description: 'Two book editors binge watch movies in search of storytelling gems - on this episode they discuss non-romantic relationships as seen in the movie, Booksmart'
 ---
 
 <iframe style="border: none" src="//html5-player.libsyn.com/embed/episode/id/13286576/height/360/theme/legacy/thumbnail/yes/direction/backward/" height="360" width="100%" scrolling="no"  allowfullscreen webkitallowfullscreen mozallowfullscreen oallowfullscreen msallowfullscreen></iframe>
