@@ -2,7 +2,11 @@
 title: 'Spider-Man:Into the Spider-Verse - Voice'
 media_order: spider-man-into-the-spider-verse.jpg
 published: true
+date: '31-12-2019 00:01'
 publish_date: '31-12-2019 00:01'
+metadata:
+    keywords: 'books, podcast, writing, how-to, voice'
+    description: 'Two book editors binge watch movies in search of storytelling gems - on this episode they discuss voice as seen in the movie, Spider-Man:Into the Spider-Verse'
 ---
 
 <iframe style="border: none" src="//html5-player.libsyn.com/embed/episode/id/12568181/height/360/theme/legacy/thumbnail/yes/direction/backward/" height="360" width="100%" scrolling="no"  allowfullscreen webkitallowfullscreen mozallowfullscreen oallowfullscreen msallowfullscreen></iframe>
