@@ -1,6 +1,11 @@
 ---
 title: 'Spirited Away - Symbolism'
 published: true
+date: '02-11-2021 00:20'
+publish_date: '02-11-2021 00:20'
+metadata:
+    keywords: 'books, podcast, writing, how-to, symbolism, Spirited Away'
+    Description: 'Two book editors binge watch movies in search of storytelling gems - on this episode they discuss symbolism as seen in the movie, Spirited Away'
 ---
 
 <iframe title="Libsyn Player" style="border: none" src="//html5-player.libsyn.com/embed/episode/id/20934788/height/360/theme/legacy/thumbnail/yes/direction/backward/" height="360" width="100%" scrolling="no"  allowfullscreen webkitallowfullscreen mozallowfullscreen oallowfullscreen msallowfullscreen></iframe>
