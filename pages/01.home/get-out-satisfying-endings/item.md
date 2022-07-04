@@ -2,6 +2,9 @@
 title: 'Get Out - Satisfying Endings'
 date: '30-10-2020 17:52'
 publish_date: '30-10-2020 17:52'
+metadata:
+    keywords: 'books, podcast, writing, how-to, satisfying endings'
+    description: 'Two book editors binge watch movies in search of storytelling gems - on this episode they discuss satisfying endings as seen in the movie, Get Out'
 ---
 
 <iframe style="border: none" src="//html5-player.libsyn.com/embed/episode/id/16621670/height/360/theme/legacy/thumbnail/yes/direction/backward/" height="360" width="100%" scrolling="no"  allowfullscreen webkitallowfullscreen mozallowfullscreen oallowfullscreen msallowfullscreen></iframe>
