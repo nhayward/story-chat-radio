@@ -1,5 +1,6 @@
 ---
 title: 'Train to Busan - Settings'
+date: '01-02-2022 00:05'
 publish_date: '01-02-2022 00:05'
 ---
 
