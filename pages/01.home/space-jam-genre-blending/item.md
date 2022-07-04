@@ -2,6 +2,9 @@
 title: 'Space Jam - Genre Blending'
 date: '25-05-2021 00:02'
 publish_date: '25-05-2021 00:02'
+metadata:
+    keywords: 'books, podcast, writing, how-to, genre blending, space jam'
+    description: 'Two book editors binge watch movies in search of storytelling gems - on this episode they discuss genre blending as seen in the movie, Space Jam'
 ---
 
 <iframe style="border: none" src="//html5-player.libsyn.com/embed/episode/id/19223048/height/360/theme/legacy/thumbnail/yes/direction/backward/" height="360" width="100%" scrolling="no"  allowfullscreen webkitallowfullscreen mozallowfullscreen oallowfullscreen msallowfullscreen></iframe>
