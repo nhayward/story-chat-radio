@@ -3,6 +3,9 @@ title: 'To All the Boys I’ve Loved Before - Side Characters'
 media_order: Toalltheboysivelovedbefore.jpg
 date: '26-11-2019 00:00'
 publish_date: '26-11-2019 00:00'
+metadata:
+    keywords: 'books, podcast, writing, how-to, side characters, characters'
+    description: 'Two book editors binge watch movies in search of storytelling gems - on this episode they discuss side characters as seen in the movie, o All the Boys I’ve Loved Before'
 ---
 
 <iframe style="border: none" src="//html5-player.libsyn.com/embed/episode/id/12139997/height/360/theme/legacy/thumbnail/yes/direction/backward/" height="360" width="100%" scrolling="no"  allowfullscreen webkitallowfullscreen mozallowfullscreen oallowfullscreen msallowfullscreen></iframe>
