@@ -3,6 +3,9 @@ title: 'Pan''s Labyrinth - Deep POV'
 published: true
 date: '07-09-2021 00:05'
 publish_date: '07-09-2021 00:05'
+metadata:
+    keywords: 'books, podcast, writing, how-to, point of view, deep POV'
+    description: 'Two book editors binge watch movies in search of storytelling gems - on this episode they discuss deep POV as seen in the movie, Pan''s Labyrinth'
 ---
 
 <iframe style="border: none" src="//html5-player.libsyn.com/embed/episode/id/20385875/height/360/theme/legacy/thumbnail/yes/direction/backward/" height="360" width="100%" scrolling="no"  allowfullscreen webkitallowfullscreen mozallowfullscreen oallowfullscreen msallowfullscreen></iframe>
