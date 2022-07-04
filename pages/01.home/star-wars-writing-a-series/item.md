@@ -2,6 +2,9 @@
 title: 'Star Wars - Writing a Series'
 date: '03-05-2022 00:05'
 publish_date: '03-05-2022 00:05'
+metadata:
+    keywords: 'star wars, sequels, series, books, podcast, writing, how-to'
+    description: 'Two book editors binge watch movies in search of storytelling gems - on this episode they discuss writing a series as seen in the movies, A New Hope and The Empire Strikes Back'
 ---
 
 <iframe title="Libsyn Player" style="border: none" src="//html5-player.libsyn.com/embed/episode/id/22921703/height/360/theme/legacy/thumbnail/yes/direction/backward/" height="360" width="100%" scrolling="no"  allowfullscreen webkitallowfullscreen mozallowfullscreen oallowfullscreen msallowfullscreen></iframe>
