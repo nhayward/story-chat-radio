@@ -3,6 +3,9 @@ title: 'Little Women - Dual Timelines'
 published: true
 date: '30-06-2020 00:00'
 publish_date: '30-06-2020 00:00'
+metadata:
+    keywords: 'books, podcast, writing, how-to, dual timelines '
+    description: 'Two book editors binge watch movies in search of storytelling gems - on this episode they discuss dual timelines as seen in the movie, Little Women'
 ---
 
 <iframe style="border: none" src="//html5-player.libsyn.com/embed/episode/id/14968694/height/360/theme/legacy/thumbnail/yes/direction/backward/" height="360" width="100%" scrolling="no"  allowfullscreen webkitallowfullscreen mozallowfullscreen oallowfullscreen msallowfullscreen></iframe>
