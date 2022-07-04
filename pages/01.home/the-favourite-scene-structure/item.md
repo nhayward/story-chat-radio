@@ -3,7 +3,7 @@ title: 'The Favourite - Scene Structure'
 date: '07-06-2022 00:02'
 publish_date: '07-06-2022 00:02'
 metadata:
-    keywords: 'Favourite, scene, scene structure, structure, books, writing, how-to'
+    keywords: 'Favourite, scene, scene structure, structure, books, podcast, writing, how-to'
     description: 'Two book editors binge watch movies in search of storytelling gems - on this episode they discuss scene structure as seen in the movie, The Favourite'
 ---
 
