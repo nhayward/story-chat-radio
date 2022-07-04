@@ -4,6 +4,9 @@ media_order: 'the mummy.jpg'
 published: true
 date: '06-07-2021 00:05'
 publish_date: '06-07-2021 00:05'
+metadata:
+    keywords: 'books, podcast, writing, how-to, prologues'
+    description: 'Two book editors binge watch movies in search of storytelling gems - on this episode they discuss prologues as seen in the movie, The Mummy'
 ---
 
 <iframe style="border: none" src="//html5-player.libsyn.com/embed/episode/id/19702331/height/360/theme/legacy/thumbnail/yes/direction/backward/" height="360" width="100%" scrolling="no"  allowfullscreen webkitallowfullscreen mozallowfullscreen oallowfullscreen msallowfullscreen></iframe>
