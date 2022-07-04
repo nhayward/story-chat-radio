@@ -2,6 +2,7 @@
 title: 'A Quiet Place - Show vs Tell'
 media_order: A-Quiet-Place.png
 published: true
+date: '28-01-2020 00:00'
 publish_date: '28-01-2020 00:00'
 metadata:
     keywords: 'books, podcast, writing, how-to, show vs tell'
