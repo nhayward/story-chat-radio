@@ -2,6 +2,9 @@
 title: 'Up - Story Structure'
 date: '24-11-2020 00:01'
 publish_date: '24-11-2020 00:01'
+metadata:
+    keywords: 'books, podcast, writing, how-to, story structure'
+    description: 'Two book editors binge watch movies in search of storytelling gems - on this episode they discuss story structure as seen in the movie, Up'
 ---
 
 <iframe style="border: none" src="//html5-player.libsyn.com/embed/episode/id/16929836/height/360/theme/legacy/thumbnail/yes/direction/backward/" height="360" width="100%" scrolling="no"  allowfullscreen webkitallowfullscreen mozallowfullscreen oallowfullscreen msallowfullscreen></iframe>
