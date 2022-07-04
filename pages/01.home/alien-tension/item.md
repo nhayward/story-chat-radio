@@ -3,6 +3,9 @@ title: 'Alien - Tension'
 published: true
 date: '05-10-2021 00:05'
 publish_date: '05-10-2021 00:05'
+metadata:
+    keywords: 'books, podcast, writing, how-to, tension'
+    Description: 'Two book editors binge watch movies in search of storytelling gems - on this episode they discuss tension as seen in the movie, Alien'
 ---
 
 <iframe title="Libsyn Player" style="border: none" src="//html5-player.libsyn.com/embed/episode/id/20703389/height/360/theme/legacy/thumbnail/yes/direction/backward/" height="360" width="100%" scrolling="no"  allowfullscreen webkitallowfullscreen mozallowfullscreen oallowfullscreen msallowfullscreen></iframe>
