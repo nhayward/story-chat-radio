@@ -1,7 +1,7 @@
 ---
 title: 'Willow - Magic Systems'
 media_order: willow.jpeg
-published: false
+published: true
 date: '05-07-2022 00:05'
 publish_date: '05-07-2022 00:05'
 ---
