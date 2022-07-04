@@ -1,6 +1,11 @@
 ---
 title: 'Shang-Chi and the Legend of the Ten Rings - Emotional Wounds'
 published: true
+date: '07-12-2021 00:17'
+publish_date: '07-12-2021 00:17'
+metadata:
+    keywords: 'books, podcast, writing, how-to, emotional wounds'
+    description: 'Two book editors binge watch movies in search of storytelling gems - on this episode they discuss emotional wounds as seen in the movie, Shang-Chi and the Legend of the Ten Rings'
 ---
 
 <iframe title="Libsyn Player" style="border: none" src="//html5-player.libsyn.com/embed/episode/id/21398366/height/360/theme/legacy/thumbnail/yes/direction/backward/" height="360" width="100%" scrolling="no"  allowfullscreen webkitallowfullscreen mozallowfullscreen oallowfullscreen msallowfullscreen></iframe>
