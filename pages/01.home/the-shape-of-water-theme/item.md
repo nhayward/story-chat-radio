@@ -2,6 +2,9 @@
 title: 'The Shape of Water - Theme'
 date: '26-01-2021 00:01'
 publish_date: '26-01-2021 00:01'
+metadata:
+    keywords: 'books, podcast, writing, how-to, theme'
+    description: 'Two book editors binge watch movies in search of storytelling gems - on this episode they discuss theme as seen in the movie, The Shape of Water'
 ---
 
 <iframe style="border: none" src="//html5-player.libsyn.com/embed/episode/id/17688626/height/360/theme/legacy/thumbnail/yes/direction/backward/" height="360" width="100%" scrolling="no"  allowfullscreen webkitallowfullscreen mozallowfullscreen oallowfullscreen msallowfullscreen></iframe>
