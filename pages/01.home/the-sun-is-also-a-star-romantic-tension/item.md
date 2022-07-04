@@ -2,6 +2,9 @@
 title: 'The Sun is Also a Star - Romantic Tension'
 date: '23-02-2021 00:05'
 publish_date: '23-02-2021 00:05'
+metadata:
+    keywords: 'books, podcast, writing, how-to, romantic tension'
+    description: 'Two book editors binge watch movies in search of storytelling gems - on this episode they discuss romantic tension as seen in the movie, The Sun is Also a Star'
 ---
 
 <iframe style="border: none" src="//html5-player.libsyn.com/embed/episode/id/18050522/height/360/theme/legacy/thumbnail/yes/direction/backward/" height="360" width="100%" scrolling="no"  allowfullscreen webkitallowfullscreen mozallowfullscreen oallowfullscreen msallowfullscreen></iframe>
