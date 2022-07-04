@@ -1,7 +1,11 @@
 ---
 title: 'Knives Out - Mysteries'
 published: true
+date: '26-05-2020 00:00'
 publish_date: '26-05-2020 00:00'
+metadata:
+    keywords: 'books, podcast, writing, how-to, mysteries, knives out'
+    description: 'Two book editors binge watch movies in search of storytelling gems - on this episode they discuss mysteries as seen in the movie, Knives Out'
 ---
 
 <iframe style="border: none" src="//html5-player.libsyn.com/embed/episode/id/14563718/height/360/theme/legacy/thumbnail/yes/direction/backward/" height="360" width="100%" scrolling="no"  allowfullscreen webkitallowfullscreen mozallowfullscreen oallowfullscreen msallowfullscreen></iframe>
