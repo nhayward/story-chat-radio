@@ -3,6 +3,9 @@ title: 'The Lovebirds - Limited POV'
 published: true
 date: '25-08-2020 00:05'
 publish_date: '25-08-2020 00:05'
+metadata:
+    keywords: 'books, podcast, writing, how-to, limited POV, point of view'
+    description: 'Two book editors binge watch movies in search of storytelling gems - on this episode they discuss limited POV as seen in the movie, The Lovebirds'
 ---
 
 <iframe style="border: none" src="//html5-player.libsyn.com/embed/episode/id/15740384/height/360/theme/legacy/thumbnail/yes/direction/backward/" height="360" width="100%" scrolling="no"  allowfullscreen webkitallowfullscreen mozallowfullscreen oallowfullscreen msallowfullscreen></iframe>
