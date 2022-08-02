@@ -1,6 +1,6 @@
 ---
 title: 'Everything Everywhere All at Once - Grounding'
-published: false
+published: true
 date: '02-08-2022 00:44'
 publish_date: '02-08-2022 00:44'
 metadata:
