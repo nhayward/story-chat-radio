@@ -1,5 +1,6 @@
 ---
 title: Included
+media_order: Testimonial_2.png
 body_classes: modular
 content:
     items: '@self.modular'
@@ -19,3 +20,6 @@ content:
 You can attend this online 3-day workshop live, download the video recordings* afterward, or both. Written transcripts can also be provided upon request. 
  
 ###### _\*Recordings and transcripts are only available for Saturday’s curriculum. See full schedule below._
+
+![Very relateable content
+Jeni Chappelle and Carly Hayward do an amazing job delivering writing tips and tricks in an understandable way. I had no idea I could relate to writing concepts as seen in movies as much as I do.](Testimonial_2.png)
