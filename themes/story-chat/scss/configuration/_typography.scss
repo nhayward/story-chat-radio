@@ -9,13 +9,36 @@ a {
         color: $light-color;
     }
 
-    &.btn {
-        border-color: $light-color;
+    &.btn, &.button {
+        border-radius: 0;
+        background-color: $dark-color;
+        color: $white;
 
         &:hover {
-            border-color: $light-color;
+            background-color: $light-color;
+            color: $black;
         }
 
     }
 
+}
+
+.notices.custom {
+    min-height: 150px;
+    margin: 1.5rem 0 1.5rem 0.7rem;
+    padding: 1rem 1rem 1rem 220px;
+    border-image-outset: 1;
+    box-shadow: 0 0 20px 10px #999999;
+    background-color: $white;
+    background-image: url('/user/themes/story-chat/images/accents/megaphonesound.png');
+    background-repeat: no-repeat;
+    background-size: 200px;
+    background-position: left 10px top 10px;
+    color: #222;
+
+    @media (max-width: 767px) {
+        background-position: center top 10px;
+        padding-left: 1rem;
+        padding-top: 150px;
+    }
 }
