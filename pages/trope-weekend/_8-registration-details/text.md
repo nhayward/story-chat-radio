@@ -41,6 +41,6 @@ Live sessions will take place on Zoom. Participants must download the Zoom softw
 Links to recordings will be sent via email to all participants and also posted in the Trope Weekend group, which will be hosted in Discord. Discord does have an app you can download on your computer or smart device, but it can also be accessed in your browser. If you want to download the Discord app, you can do that on the Discord website.
  
  
-\button Sign up\
+<center markdown="1">[Sign up!](https://book.stripe.com/fZedSj81Y8UsbJe9AB?target=_blank){.button}</center>
  
 If you still have any questions or concerns, please reach out to the Story Chat Radio team
