@@ -1,9 +1,10 @@
 ---
 title: Included
 media_order: Testimonial_2.png
-body_classes: modular
+body_classes: modular-features
 content:
     items: '@self.modular'
+class: small
 ---
 
 ### What’s included
