@@ -16,3 +16,5 @@ content:
 * **See tropes!** Recognize and research common tropes in your story (and others)
 * **Understand tropes!** How tropes really work in a story
 * **Dare we say…even love tropes!** Create a more meaningful author-reader relationship
+
+[Book](https://dashboard.stripe.com/settings/checkout){.button}
