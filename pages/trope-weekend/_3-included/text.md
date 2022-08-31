@@ -1,6 +1,6 @@
 ---
 title: Included
-body_classes: modular-features
+body_classes: modular-text
 content:
     items: '@self.modular'
 class: small
