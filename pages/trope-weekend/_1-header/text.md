@@ -5,9 +5,9 @@ content:
     items: '@self.modular'
 ---
 
-![Story Chat Radio Presents: Trope Weekend.Two editors. Three days. Lots of banter. All the tropes. Coming Oct 21-23, 2022](Trope%20Weekend%20Logo_Med.png){.center}
+![Story Chat Radio Presents: Trope Weekend.Two editors. Three days. Lots of banter. All the tropes. Coming Oct 21-23, 2022](Trope%20Weekend%20Logo_Med.png){.center-img}
 
-## Two editors. Three days. Lots of banter. All the tropes.
+## Two editors. Three days. Lots of banter. All the tropes.{.center}
 
 ### Increase reader engagement with a powerful, overlooked tool: tropes!
 
