@@ -32,7 +32,7 @@ Participants must be 18 or older and write any fiction genre for ages 10 and abo
 
 Payment plans and partial scholarships available. If you’d like to sponsor or contribute to a scholarship, please contact the Story Chat Radio team.  
  
-Registration link: 
+[Click here to register for a scholarship](https://forms.gle/kKNwGyFp9J24vqUq5?target=_blank)
  
 #### Platform
  
