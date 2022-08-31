@@ -17,4 +17,4 @@ content:
 * **Understand tropes!** How tropes really work in a story
 * **Dare we say…even love tropes!** Create a more meaningful author-reader relationship
 
-[Book](https://dashboard.stripe.com/settings/checkout){.button}
+[Book](https://dashboard.stripe.com/settings/checkout){.button .center}
