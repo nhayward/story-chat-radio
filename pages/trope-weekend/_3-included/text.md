@@ -19,7 +19,7 @@ class: small
 
 You can attend this online 3-day workshop live, download the video recordings* afterward, or both. Written transcripts can also be provided upon request. 
  
-###### _\*Recordings and transcripts are only available for Saturday’s curriculum. [See full schedule below](/trope-weekend/_5-schedule)._
+###### _\*Recordings and transcripts are only available for Saturday’s curriculum. See full schedule below._
 
 <center markdown="1">[Sign up!](https://book.stripe.com/fZedSj81Y8UsbJe9AB?target=_blank){.button}</center>
 
