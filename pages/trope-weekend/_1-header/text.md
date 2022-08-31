@@ -11,8 +11,8 @@ content:
 
 ### Increase reader engagement with a powerful, overlooked tool: tropes!{.center}
 
-### Spend the weekend with your favorite editor duo, Carly Hayward and Jeni Chappelle, and learn to: 
-* **Use tropes!** Meet reader expectations—and surprise them
-* **See tropes!** Recognize and research common tropes in your story (and others)
-* **Understand tropes!** How tropes really work in a story
-* **Dare we say…even love tropes!** Create a more meaningful author-reader relationship
+### Spend the weekend with your favorite editor duo, Carly Hayward and Jeni Chappelle, and learn to: {.center}
+* **Use tropes!** Meet reader expectations—and surprise them{.center}
+* **See tropes!** Recognize and research common tropes in your story (and others){.center}
+* **Understand tropes!** How tropes really work in a story{.center}
+* **Dare we say…even love tropes!** Create a more meaningful author-reader relationship{.center}
