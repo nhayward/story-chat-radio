@@ -1,5 +1,5 @@
 ---
-title: Header
+title: Lead
 media_order: 'Trope Weekend Logo_Med.png'
 content:
     items: '@self.modular'
