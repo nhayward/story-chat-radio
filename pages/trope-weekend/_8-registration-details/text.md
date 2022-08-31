@@ -30,7 +30,7 @@ Participants must be 18 or older and write any fiction genre for ages 10 and abo
  
 **Register for a 3-day pass by September, 20 2022 to receive a $50 early registration discount!**
 
-Payment plans and partial scholarships available. If you’d like to sponsor or contribute to a scholarship, please contact the Story Chat Radio team.  
+Payment plans and partial scholarships available. If you’d like to sponsor or contribute to a scholarship, please <a href="mailto:storychatradio@gmail.com">contact the Story Chat Radio team</a>.
  
 [Click here to register for a scholarship](https://forms.gle/kKNwGyFp9J24vqUq5?target=_blank).
  
