@@ -36,9 +36,9 @@ Registration link:
  
 #### Platform
  
-Live sessions will take place on Zoom. Participants must download the Zoom software on their computer or smart device prior to the event. You can download that on the Zoom website. Participants will need an internet connection and a computer or smart device. All participants will receive a link to the Zoom meeting via email prior to the event. 
+Live sessions will take place on Zoom. Participants must download the Zoom software on their computer or smart device prior to the event. You can download that on the [Zoom website](https://zoom.us/download?target=_blank). Participants will need an internet connection and a computer or smart device. All participants will receive a link to the Zoom meeting via email prior to the event. 
  
-Links to recordings will be sent via email to all participants and also posted in the Trope Weekend group, which will be hosted in Discord. Discord does have an app you can download on your computer or smart device, but it can also be accessed in your browser. If you want to download the Discord app, you can do that on the Discord website.
+Links to recordings will be sent via email to all participants and also posted in the Trope Weekend group, which will be hosted in Discord. Discord does have an app you can download on your computer or smart device, but it can also be accessed in your browser. If you want to download the Discord app, you can do that on the [Discord website](https://discord.com/download?target=_blank).
  
  
 <center markdown="1">[Sign up!](https://book.stripe.com/fZedSj81Y8UsbJe9AB?target=_blank){.button}</center>
