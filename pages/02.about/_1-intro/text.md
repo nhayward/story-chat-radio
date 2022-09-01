@@ -30,4 +30,4 @@ If you're interested in supporting the podcast and getting extra tidbits:
 !!!!! 
 !!!!! It's so refreshing to find people that are uplifting with their advice. People who can critique without condescension are rare, but Jeni and Carly nail it EVERY time as they offer their thoughts in a way that encourages authors to be better while also reassuring them of their ability to so."
 !!!!! 
-!!!!! - _Neha Das_
+!!!!! -_Neha Das_
