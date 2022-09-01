@@ -18,25 +18,38 @@ a.btn:hover, a.button:hover {
   color: #000;
 }
 
-.notices.custom {
-  min-height: 150px;
-  margin: 1.5rem 0 1.5rem 0.7rem;
-  padding: 1rem 1rem 1rem 220px;
+.notices.megaphone {
+  margin: 1.5rem 0.7rem;
+  padding: 0 1rem;
+  overflow-y: auto;
+  overflow-x: hidden;
   border-image-outset: 1;
   box-shadow: 0 0 20px 10px #999999;
   background-color: #fff;
-  background-image: url("/user/themes/story-chat/images/accents/megaphonesound.png");
-  background-repeat: no-repeat;
-  background-size: 200px;
-  background-position: left 10px top 10px;
   color: #222;
 }
+.notices.megaphone::before {
+  content: "";
+  display: block;
+  margin: 1rem 1rem 1rem 0;
+  height: 120px;
+  width: 200px;
+  float: left;
+  background-image: url("/user/themes/story-chat/images/accents/megaphonesound.png");
+  background-size: cover;
+  background-repeat: no-repeat;
+}
 @media (max-width: 767px) {
-  .notices.custom {
-    background-position: center top 10px;
-    padding-left: 1rem;
-    padding-top: 150px;
+  .notices.megaphone::before {
+    width: 100%;
+    float: none;
+    background-position: center;
+    background-size: contain;
   }
+}
+.notices.outline {
+  border: 10px solid #fa644f;
+  padding: 0 1rem;
 }
 
 #header {
@@ -203,17 +216,6 @@ a.btn:hover, a.button:hover {
   padding: 0 !important;
 }
 
-.modular-features {
-  text-align: initial;
-}
-.modular-features .container {
-  border: 10px solid #fa644f;
-  padding: 1.5rem 1rem !important;
-}
-.modular-features .container .frame-box {
-  padding: 0;
-}
-
 #body-wrapper {
   padding-right: 1rem;
   padding-bottom: 2rem;
@@ -236,6 +238,12 @@ a.btn:hover, a.button:hover {
   display: block;
   margin-left: auto;
   margin-right: auto;
+}
+#body-wrapper .anchor {
+  display: block;
+  position: relative;
+  top: -46px;
+  visibility: hidden;
 }
 
 /*# sourceMappingURL=custom.css.map */
