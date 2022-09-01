@@ -1,6 +1,5 @@
 ---
 title: Lead
-media_order: 'Trope Weekend Logo_Med.png,Trope Weekend Logo banner.png'
 content:
     items: '@self.modular'
 ---
