@@ -1,11 +1,11 @@
 ---
 title: Lead
-media_order: 'Trope Weekend Logo_Med.png'
+media_order: 'Trope Weekend Logo_Med.png,Trope Weekend Logo banner.png'
 content:
     items: '@self.modular'
 ---
 
-![Story Chat Radio Presents: Trope Weekend.Two editors. Three days. Lots of banter. All the tropes. Coming Oct 21-23, 2022](Trope%20Weekend%20Logo_Med.png){.center-img}
+!["Story Chat Radio Presents: Trope Weekend. Two editors. Three days. Lots of banter. All the tropes. Coming Oct 21-23, 2022"](Trope%20Weekend%20Logo%20banner.png "Trope%20Weekend%20Logo%20banner"){.center-img}
 
 ## Two editors. Three days. Lots of banter. All the tropes.{.center}
 
