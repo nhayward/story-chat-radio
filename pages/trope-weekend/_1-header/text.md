@@ -16,3 +16,9 @@ content:
 * **See tropes!** Recognize and research common tropes in your story (and others)
 * **Understand tropes!** How tropes really work in a story
 * **Dare we say…even love tropes!** Create a more meaningful author-reader relationship
+
+### Bonus!
+
+Pick which days you want to attend with 1-, 2-, and 3-day passes—or choose only the recordings.
+
+<center markdown="1">[I already know I want to sign up](https://book.stripe.com/fZedSj81Y8UsbJe9AB?target=_blank){.button}</center>
