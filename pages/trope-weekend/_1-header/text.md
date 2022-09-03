@@ -22,4 +22,4 @@ Pick which days you want to attend with 1-, 2-, and 3-day passes—or choose onl
 
 ##### Register for a 3-day pass by **September 20, 2022** to receive a $50 early registration discount! Registration for all other passes opens **September 21, 2022**.
 <br>
-<center markdown="1">[I already know I want to sign up](https://book.stripe.com/fZedSj81Y8UsbJe9AB?target=_blank){.button}</center>
+<center markdown="1">[I already know I want to sign up!](https://book.stripe.com/fZedSj81Y8UsbJe9AB?target=_blank){.button}</center>
