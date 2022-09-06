@@ -10,7 +10,10 @@ a:visited {
 }
 a.btn, a.button {
   border-radius: 0;
+  padding: 0.75rem 1rem;
+  height: auto;
   background-color: #2e3361;
+  font-size: 1rem;
   color: #fff;
 }
 a.btn:hover, a.button:hover {
