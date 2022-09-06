@@ -206,6 +206,7 @@ Cookie means a small text file placed on your computer by Trope Weekend when you
 Content means any text , graphics images, audio, video, software, data compilations, and any other form of information capable of being stored in a computer that appears on or forms part of this web site.
  
 Account means collectively the personal information, payment information and credentials used by users to access material and / or any communications systems on the web site.
+
 ANTI-HARASSMENT POLICY
  
 Statement of Policy
