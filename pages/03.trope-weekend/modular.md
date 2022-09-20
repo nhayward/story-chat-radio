@@ -8,3 +8,4 @@ metadata:
     keywords: 'writing, writing workshop, trope writing, publishing, editing, writing craft, writing how-to'
 ---
 
+<script async src="https://js.stripe.com/v3/pricing-table.js"></script>
