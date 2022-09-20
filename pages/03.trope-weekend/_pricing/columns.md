@@ -4,7 +4,7 @@ content:
     items: '@self.modular'
 columns:
     -
-        content: "#### 3-day pass: $550\n\nFriday, Saturday, and Sunday. Includes movie night, all classes, the group workshopping, and access to recordings.\n\n<center markdown=\"1\">[Book Now!](https://book.stripe.com/9AQ5lN2HEb2A4gM9AG?target=_blank){.button}</center>"
+        content: "<div id=\"pricing\" class=\"anchor\"></div>\n#### 3-day pass: $550\n\nFriday, Saturday, and Sunday. Includes movie night, all classes, the group workshopping, and access to recordings.\n\n<center markdown=\"1\">[Book Now!](https://book.stripe.com/9AQ5lN2HEb2A4gM9AG?target=_blank){.button}</center>"
     -
         content: "#### 2-day pass: $450\n\nSaturday and Sunday. Includes all classes, the group workshopping, and access to recordings.\n\n<center markdown=\"1\">[Book Now!](https://book.stripe.com/dR6g0r5TQ6Mk00w7sx?target=_blank){.button}</center>"
     -
