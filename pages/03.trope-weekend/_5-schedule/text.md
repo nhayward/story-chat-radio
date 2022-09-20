@@ -25,5 +25,5 @@ content:
 !!!!!! Group discussions led by Jeni and Carly. Work with the group to identify which tropes you use, how effective they are, and brainstorm how to handle them based on a summary of your story. 
 !!!!!! <br>
 !!!!!! <br>
-!!!!!! <center markdown="1">[Sign up!](https://book.stripe.com/fZedSj81Y8UsbJe9AB?target=_blank){.button}</center>
+!!!!!! <center markdown="1">[Sign up!](#pricing){.button}</center>
 !!!!!! <br>
