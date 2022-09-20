@@ -10,6 +10,6 @@ columns:
     -
         content: "#### 1-day pass: $350\n\nSaturday only. Includes all classes and access to recordings. \n<br>\n<br>\n<br>\n<center markdown=\"1\">[Book Now!](https://book.stripe.com/5kA3dFdmi1s04gMeUY?target=_blank){.button}</center>"
     -
-        content: "#### Recordings only: $200\n\nAccess to recordings from the classes. Will be available after Trope Weekend and are yours to keep.\n<br>\n<center markdown=\"1\">[Book Now!](https://book.stripe.com/28o9C3fuq9YwaFa28b?target=_blank){.button}</center>"
+        content: "#### Recordings only: $200\n\nAccess to recordings from the classes on Saturday. Will be available after Trope Weekend.\n<br>\n<center markdown=\"1\">[Book Now!](https://book.stripe.com/28o9C3fuq9YwaFa28b?target=_blank){.button}</center>"
 ---
 
