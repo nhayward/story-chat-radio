@@ -1,5 +1,7 @@
 ---
 title: 'The Birdcage - GMC'
+date: '01-11-2022 00:05'
+publish_date: '01-11-2022 00:05'
 ---
 
 #### Just as a reminder, you can now support the podcast on Patreon, where you can read the queries we critique plus get lots of other bonus content. It’s easy to find, just go to [patreon.com/storychatradio](https://www.patreon.com/storychatradio?target=_blank). 
