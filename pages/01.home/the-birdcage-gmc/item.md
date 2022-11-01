@@ -7,6 +7,8 @@ metadata:
     description: 'Two book editors binge watch movies in search of storytelling gems - on this episode they discuss goal, motivation, and conflict as seen in the movie, The Birdcage'
 ---
 
+<iframe title="Embed Player" src="https://play.libsyn.com/embed/episode/id/24867174/height/192/theme/modern/size/large/thumbnail/yes/custom-color/39918e/time-start/00:00:00/playlist-height/200/direction/backward/download/yes" height="192" width="100%" scrolling="no" allowfullscreen="" webkitallowfullscreen="true" mozallowfullscreen="true" oallowfullscreen="true" msallowfullscreen="true" style="border: none;"></iframe>
+
 #### Just as a reminder, you can now support the podcast on Patreon, where you can read the queries we critique plus get lots of other bonus content. It’s easy to find, just go to [patreon.com/storychatradio](https://www.patreon.com/storychatradio?target=_blank). 
 
 **Summary of this month’s movie:**
@@ -53,5 +55,5 @@ Our query this month is YA fantasy. Carly, what are your thoughts on this query?
 
 #### Enter to win a query/blurb critique here:
 
-<a class="rcptr" href="http://www.rafflecopter.com/rafl/display/aed251ca34/" rel="nofollow" data-raflid="aed251ca34" data-theme="classic" data-template="" id="rcwidget_hfgkgp9b">a Rafflecopter giveaway</a>
+<a class="rcptr" href="http://www.rafflecopter.com/rafl/display/aed251ca36/" rel="nofollow" data-raflid="aed251ca36" data-theme="classic" data-template="" id="rcwidget_c6us069a">a Rafflecopter giveaway</a>
 <script src="https://widget-prime.rafflecopter.com/launch.js"></script>
