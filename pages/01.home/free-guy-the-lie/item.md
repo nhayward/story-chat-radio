@@ -2,6 +2,9 @@
 title: 'Free Guy - The Lie'
 date: '06-12-2022 12:05'
 publish_date: '06-12-2022 12:05'
+metadata:
+    keywords: 'writing, podcast, how-to, the lie, character building, goal motivation and conflict'
+    description: 'Two book editors binge watch movies in search of storytelling gems - on this episode they discuss The Lie as seen in the movie, Free Guy'
 ---
 
 #### Just as a reminder, you can now support the podcast on Patreon, where you can read the queries we critique plus get lots of other bonus content. It’s easy to find, just go to [patreon.com/storychatradio](https://www.patreon.com/storychatradio?target=_blank). 
