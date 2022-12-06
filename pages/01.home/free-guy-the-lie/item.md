@@ -1,7 +1,7 @@
 ---
 title: 'Free Guy - The Lie'
-date: '06-12-2022 12:05'
-publish_date: '06-12-2022 12:05'
+date: '06-12-2022 00:05'
+publish_date: '06-12-2022 00:05'
 metadata:
     keywords: 'writing, podcast, how-to, the lie, character building, goal motivation and conflict'
     description: 'Two book editors binge watch movies in search of storytelling gems - on this episode they discuss The Lie as seen in the movie, Free Guy'
