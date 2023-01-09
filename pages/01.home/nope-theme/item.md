@@ -5,7 +5,6 @@ publish_date: '10-01-2023 01:25'
 metadata:
     keywords: 'writing, podcast, how-to, motif'
     description: 'Two book editors binge watch movies in search of storytelling gems - on this episode they discuss motif as seen in the movie, Nope'
-published: true
 ---
 
 #### Just as a reminder, you can now support the podcast on Patreon, where you can read the queries we critique plus get lots of other bonus content. It’s easy to find, just go to [patreon.com/storychatradio](https://www.patreon.com/storychatradio?target=_blank). 
