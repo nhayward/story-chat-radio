@@ -20,10 +20,6 @@ Like and subscribe to the podcast on [Apple Podcasts](https://podcasts.apple.com
 
 You can reach us on [Twitter](https://twitter.com/StoryChatRadio?target=_blank), [Instagram](https://www.instagram.com/storychatradio?target=_blank), or via email at storychatradio@gmail.com.
 
-If you're interested in supporting the podcast and getting extra tidbits: 
-
-<a href="https://www.patreon.com/bePatron?u=55827226" data-patreon-widget-type="become-patron-button">Become a Patron!</a><script async src="https://c6.patreon.com/becomePatronButton.bundle.js"></script>
-
 !!!!! "Short version: Story Chat Radio is amazing, and everyone should listen.
 !!!!! 
 !!!!! Long version: Jeni and Carly provide insightful commentary that is both thought provoking and inspiring. Their understanding of storytelling is masterful, and I love that they use movies to help improve novel writing. 
