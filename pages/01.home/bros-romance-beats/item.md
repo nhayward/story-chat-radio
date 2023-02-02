@@ -3,6 +3,8 @@ title: 'Bros - Romance Beats'
 metadata:
     keywords: 'writing, podcast, how-to, romance structure, romance beats, romance novels'
     description: 'Two book editors binge watch movies in search of storytelling gems - on this episode they discuss romance structure as seen in the movie, Bros'
+date: '07-02-2023 00:05'
+publish_date: '07-02-2023 00:05'
 ---
 
 **Summary of this month’s movie:**
