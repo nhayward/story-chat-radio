@@ -7,6 +7,8 @@ date: '07-02-2023 00:05'
 publish_date: '07-02-2023 00:05'
 ---
 
+<iframe title="Embed Player" src="https://play.libsyn.com/embed/episode/id/25823880/height/192/theme/modern/size/large/thumbnail/yes/custom-color/39918e/time-start/00:00:00/playlist-height/200/direction/backward" height="192" width="100%" scrolling="no" allowfullscreen="" webkitallowfullscreen="true" mozallowfullscreen="true" oallowfullscreen="true" msallowfullscreen="true" style="border: none;"></iframe>
+
 **Summary of this month’s movie:**
 
 Here come the spoilers! In New York City, Bobby Lieber, is a podcast host and a curator for the upcoming National LGBTQ+ History Museum. At a nightclub, Bobby, who prides himself on being single, spots Aaron Shepard. They flirt, but Aaron doesn’t seem interested. Despite that, they spend some together, but their connection doesn’t seem that strong. Bobby feels Aaron acts too straight, and Aaron thinks Bobby is too intense and is intimidated by his clout in the gay community. Aaron later discovers his high school crush, Josh, has come out as gay.
