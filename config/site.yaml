@@ -17,6 +17,10 @@ blog:
   route: /home
 social_links:
   -
+    title: YouTube
+    link: https://www.youtube.com/channel/UCVgBO3mHLqhtVZWRn0BmFEA
+    image: YouTube.png
+  -
     title: Twitter
     link: https://twitter.com/StoryChatRadio
     image: Twitter.png
