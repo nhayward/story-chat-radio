@@ -11,6 +11,14 @@
         a {
             display: inline-block;
             margin: 0.5rem 0.5rem 1rem;
+            height: 50px;
+            width: 50px;
+
+            img {
+                border-radius: 10px;
+                background-color: black;
+                padding: 0.25rem;
+            }
         }
 
     }

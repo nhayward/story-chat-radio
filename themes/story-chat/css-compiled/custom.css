@@ -113,6 +113,13 @@ a.btn:hover, a.button:hover {
 #footer #footer-social a {
   display: inline-block;
   margin: 0.5rem 0.5rem 1rem;
+  height: 50px;
+  width: 50px;
+}
+#footer #footer-social a img {
+  border-radius: 10px;
+  background-color: black;
+  padding: 0.25rem;
 }
 
 .blog-listing .blog-header {
@@ -192,6 +199,9 @@ a.btn:hover, a.button:hover {
 }
 #floating-social a:not(:last-of-type) {
   margin-bottom: 0.5rem;
+}
+#floating-social a img {
+  padding: 0.25rem;
 }
 @media (max-width: 840px) {
   #floating-social {
