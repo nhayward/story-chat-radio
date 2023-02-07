@@ -16,6 +16,22 @@
     <link rel="icon" type="image/png" href="{{ url('theme://images/favicon.png') }}" />
     <link rel="canonical" href="{{ page.url(true, true) }}" />
     {% include 'partials/link_tags.html.twig' %}
+
+    <!-- Google Tag Manager -->
+    <script>
+        (function (w, d, s, l, i) {
+            w[l] = w[l] || [];
+            w[l].push({'gtm.start': new Date().getTime(), event: 'gtm.js'});
+            var f = d.getElementsByTagName(s)[0],
+                j = d.createElement(s),
+                dl = l != 'dataLayer' ? '&l=' + l : '';
+            j.async = true;
+            j.src = 'https://www.googletagmanager.com/gtm.js?id=' + i + dl;
+            f.parentNode.insertBefore(j, f);
+        })(window, document, 'script', 'dataLayer', 'GTM-MBVL5CL');
+    </script>
+    <!-- End Google Tag Manager -->
+
 {% endblock head %}
 
 {% block stylesheets %}
@@ -111,9 +127,15 @@
     </div>
     {% endblock %}
 
-{% block bottom %}
-    {{ assets.js('bottom')|raw }}
-{% endblock %}
+    {% block bottom %}
+        {{ assets.js('bottom')|raw }}
+    {% endblock %}
+
+    <!-- Google Tag Manager (noscript) -->
+    <noscript>
+        <iframe src="https://www.googletagmanager.com/ns.html?id=GTM-MBVL5CL" height="0" width="0" style="display:none;visibility:hidden"></iframe>
+    </noscript>
+    <!-- End Google Tag Manager (noscript) -->
 
 </body>
 </html>
