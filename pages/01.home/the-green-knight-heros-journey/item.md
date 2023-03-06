@@ -7,8 +7,6 @@ metadata:
     description: 'Two book editors binge watch movies in search of storytelling gems - on this episode they discuss the Hero''s Journeyas seen in the movie, The Green Knight'
 ---
 
-
-
 **Summary of this month’s movie:**
 
 Here come the spoilers! On Christmas morning, Gawain is at a feast at the Round Table with his uncle, the king. The mysterious Green Knight barges in and states that any knight who lands a blow on him will win his green ax but must travel to the Green Chapel and receive an equal blow in return on the following Christmas. Gawain takes up the challenge. The knight yields, and Gawain decapitates him. The knight gets up, takes his severed head, repeats their deal, and rides away.
