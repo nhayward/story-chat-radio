@@ -1,11 +1,14 @@
 ---
 title: 'The Green Knight - Hero''s Journey'
+media_order: 'Green knight.jpg'
 date: '07-03-2023 00:05'
 publish_date: '07-03-2023 00:05'
 metadata:
     keywords: 'writing, podcast, how-to, hero''s journey, story structure'
     description: 'Two book editors binge watch movies in search of storytelling gems - on this episode they discuss the Hero''s Journeyas seen in the movie, The Green Knight'
 ---
+
+<iframe title="Embed Player" src="https://play.libsyn.com/embed/episode/id/26144673/height/192/theme/modern/size/large/thumbnail/yes/custom-color/39918e/time-start/00:00:00/playlist-height/200/direction/backward" height="192" width="100%" scrolling="no" allowfullscreen="" webkitallowfullscreen="true" mozallowfullscreen="true" oallowfullscreen="true" msallowfullscreen="true" style="border: none;"></iframe>
 
 **Summary of this month’s movie:**
 
