@@ -1,5 +1,7 @@
 ---
 title: 'Guardians of the Galaxy - Heroine''s Journey'
+date: '09-05-2023 00:05'
+publish_date: '09-05-2023 00:05'
 ---
 
 **Summary of this month’s movie:**
