@@ -2,6 +2,9 @@
 title: 'Guardians of the Galaxy - Heroine''s Journey'
 date: '09-05-2023 00:05'
 publish_date: '09-05-2023 00:05'
+metadata:
+    keywords: 'writing, podcast, how-to, heroine''s journey, story structure'
+    description: 'Two book editors binge watch movies in search of storytelling gems - on this episode they discuss the Heroine''s Journey as seen in the movie, Guardians of the Galaxy'
 ---
 
 **Summary of this month’s movie:**
