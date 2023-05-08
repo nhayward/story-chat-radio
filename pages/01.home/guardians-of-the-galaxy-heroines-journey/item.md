@@ -7,6 +7,8 @@ metadata:
     description: 'Two book editors binge watch movies in search of storytelling gems - on this episode they discuss the Heroine''s Journey as seen in the movie, Guardians of the Galaxy'
 ---
 
+<iframe title="Embed Player" src="https://play.libsyn.com/embed/episode/id/26779176/height/192/theme/modern/size/large/thumbnail/yes/custom-color/39918e/time-start/00:00:00/playlist-height/200/direction/backward" height="192" width="100%" scrolling="no" allowfullscreen="" webkitallowfullscreen="true" mozallowfullscreen="true" oallowfullscreen="true" msallowfullscreen="true" style="border: none;"></iframe>
+
 **Summary of this month’s movie:**
 
 Here come the spoilers! In 1988, a young Peter Quill is abducted from Earth by Yondu, the leader of a group of space pirates that call themselves the Ravagers. As an adult, Quill, now known as Star-Lord, steals an orb wanted by a warlord named Ronan the Accuser. In an attempt to sell the orb, Quill finds himself pursued by a group of bounty hunters, including Gamora, who is working for Ronan. After an epic fight, Quill, Gamora, and two other bounty hunters, Rocket and Groot, are arrested and sent to prison. They meet Drax, whose family was killed by Ronan and who seeks revenge. Together, they escape and travel to Knowhere, a floating city in space, to sell the orb to the Collector, a powerful being who collects rare and dangerous artifacts. They learn that the orb contains an Infinity Stone, a powerful object that Ronan plans to use to destroy the planet Xandar. But Ronan and his forces attack Knowhere, and our heroes are forced to flee.
