@@ -1,5 +1,7 @@
 ---
 title: 'The Hunger Games - Three Act Structure'
+date: '06-06-2023 00:05'
+publish_date: '06-06-2023 00:05'
 ---
 
 <iframe title="Embed Player" style="border:none" src="https://play.libsyn.com/embed/episode/id/27051858/height/192/theme/modern/size/large/thumbnail/yes/custom-color/39918e/time-start/00:00:00/playlist-height/200/direction/backward" height="192" width="100%" scrolling="no" allowfullscreen="" webkitallowfullscreen="true" mozallowfullscreen="true" oallowfullscreen="true" msallowfullscreen="true"></iframe>
