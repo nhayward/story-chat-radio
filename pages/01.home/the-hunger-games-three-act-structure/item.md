@@ -30,25 +30,15 @@ But before we get into all that, let’s talk about the percentages for a minute
 
 **Carly:** Okay, so we’ve referenced three act structure a lot. And you’ll probably remember that Jeni and I both like to say: it’s really four act structure because act two is split in two. And it’s annoying for our brains. If I slip up, that’s why. Anyway, let’s look at what those plot points are.
 
-From 0 to 12.5% is the set up. Show the protagonist's normal world, including their emotional wound and give clues about where it came from. This doesn’t mean you don’t have conflict, but the conflict will be more about things they struggle with all the time, with a smaller amount focusing on the main plot that you’re building. This is a good place to plug our previous episode on[ _Howl’s Moving Castle_ and opening pages](https://www.storychatradio.com/howls-moving-castle-opening-pages). In it we talk about how you want to show their world changing, but in the beginning, they could still turn away and go back to their normal life.
-
-So, your first important moment will happen in the first chapter, preferably in the first five to ten pages. This is often mistaken for the inciting event, but it’s more of a hook–a smaller event than the actual inciting incident, more of what changes in their everyday life that will eventually lead them into the inciting event. 
-
-12.50% Inciting Event: the normal world changes as a result of a major conflict. I like to think of it as a question:  what spurs your character to action?
-
-25% First plot point, the end of Act 1: This is usually a context shift, a new piece of information is learned that changes things. It prompts your character to take action and start doing things.
-
-37.50% First pinch point : the antagonist exerts new power over the protagonist. You want to expose your main character to the antagonistic forces to remind them of the conflict they are up against.
-
-50% Midpoint: the protagonist realizes they can't run away anymore and will have to fight, Again they learn new information, and everything changes. This is the end of Act 2A.
-
-62.50% Second pinch point: the antagonist gets another hit against the protagonist and raises the stakes. This is another reminder of what your character is up against, but most importantly, it raises the stakes.
-
-75% Second plot point a dark moment where the MC questions everything, after which their allies remind them of their motivation and the stakes, This is the darkest moment, or dark moment of the soul, or whatever else that it is called. It is also the end of Act 2B.
-
-87.50% This is where the climax should begin, the storming of the castle in reaction to the stakes being raised. 
-
-98% Climactic moment: the main obstacle is overcome, the main goal accomplished, followed by the denouement.
+* From 0 to 12.5% is the set up. Show the protagonist's normal world, including their emotional wound and give clues about where it came from. This doesn’t mean you don’t have conflict, but the conflict will be more about things they struggle with all the time, with a smaller amount focusing on the main plot that you’re building. This is a good place to plug our previous episode on[ _Howl’s Moving Castle_ and opening pages](https://www.storychatradio.com/howls-moving-castle-opening-pages). In it we talk about how you want to show their world changing, but in the beginning, they could still turn away and go back to their normal life. So, your first important moment will happen in the first chapter, preferably in the first five to ten pages. This is often mistaken for the inciting event, but it’s more of a hook–a smaller event than the actual inciting incident, more of what changes in their everyday life that will eventually lead them into the inciting event. 
+* 12.50% Inciting Event: the normal world changes as a result of a major conflict. I like to think of it as a question:  what spurs your character to action?
+* 25% First plot point, the end of Act 1: This is usually a context shift, a new piece of information is learned that changes things. It prompts your character to take action and start doing things.
+* 37.50% First pinch point : the antagonist exerts new power over the protagonist. You want to expose your main character to the antagonistic forces to remind them of the conflict they are up against.
+* 50% Midpoint: the protagonist realizes they can't run away anymore and will have to fight, Again they learn new information, and everything changes. This is the end of Act 2A.
+* 62.50% Second pinch point: the antagonist gets another hit against the protagonist and raises the stakes. This is another reminder of what your character is up against, but most importantly, it raises the stakes.
+* 75% Second plot point a dark moment where the MC questions everything, after which their allies remind them of their motivation and the stakes, This is the darkest moment, or dark moment of the soul, or whatever else that it is called. It is also the end of Act 2B.
+* 87.50% This is where the climax should begin, the storming of the castle in reaction to the stakes being raised. 
+* 98% Climactic moment: the main obstacle is overcome, the main goal accomplished, followed by the denouement.
 
 **Jeni:** Okay, so let’s break down the plot points from the movie so we can show really clearly how these come together. 
 
