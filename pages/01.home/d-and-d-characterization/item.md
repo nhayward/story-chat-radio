@@ -1,5 +1,10 @@
 ---
 title: 'D&D - Characterization'
+date: '12-07-2023 17:31'
+publish_date: '12-07-2023 17:31'
+metadata:
+    keywords: 'writing, podcast, how-to, character, characterization, Dungeons and Dragons, Dungeon and Dragons: Honor Among Thieves'
+    description: 'Two book editors binge watch movies in search of storytelling gems - on this episode they discuss characterization as seen in the movie, Dungeon & Dragons: Honor Among Thieves'
 ---
 
 <iframe title="Embed Player" src="https://play.libsyn.com/embed/episode/id/27449904/height/192/theme/modern/size/large/thumbnail/yes/custom-color/39918e/time-start/00:00:00/playlist-height/200/direction/backward" height="192" width="100%" scrolling="no" allowfullscreen="" webkitallowfullscreen="true" mozallowfullscreen="true" oallowfullscreen="true" msallowfullscreen="true" style="border: none;"></iframe>
