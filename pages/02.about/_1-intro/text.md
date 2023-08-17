@@ -1,12 +1,11 @@
 ---
 title: intro
-media_order: StoryChatRadio_logotiny.png
 image_align: left
 ---
 
 # Welcome to Story Chat Radio!
 
-![Story Chat Radio](StoryChatRadio_logotiny.png "Story Chat Radio"){.float-left}
+![Story Chat Radio](StoryChatRadio_logosmall.png "Story Chat Radio"){.float-left}
 
 We are book editors Carly Hayward and Jeni Chappelle, and we put ourselves through the arduous tasks of picking movies. And then watching the movies. And then thinking and talking about the movies. Not to mention the popcorn.
 
