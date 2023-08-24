@@ -5,6 +5,6 @@ columns:
     -
         content: "!!!!! Story Chat Radio is an excellent podcast for authors wanting to better understand writing craft. Each month, editors Jeni and Carly use movies to break down different aspects of storytelling into easily understandable nuggets that authors can apply to their own writing. They have a great dynamic and make learning interesting and fun. With their depth and breadth of knowledge from their extensive experience as editors, you are sure to learn something with each listen. Bonus points if you watch the movie before you listen!\n!!!!! \n!!!!! **_- Jennifer Kinzler_**"
 title: testimonials
-published: false
+published: true
 ---
 
