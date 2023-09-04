@@ -7,6 +7,8 @@ metadata:
     description: 'Two book editors binge watch movies in search of storytelling gems - on this episode they discuss omniscient narrators as seen in the movie, Amélie'
 ---
 
+<iframe title="Embed Player" src="https://play.libsyn.com/embed/episode/id/27938505/height/192/theme/modern/size/large/thumbnail/yes/custom-color/39918e/time-start/00:00:00/playlist-height/200/direction/backward" height="192" width="100%" scrolling="no" allowfullscreen="" webkitallowfullscreen="true" mozallowfullscreen="true" oallowfullscreen="true" msallowfullscreen="true" style="border: none;"></iframe>
+
 **Summary of this month’s movie:**
 
 Here come the spoilers! Amélie is a lonely waitress and lets her imagination roam freely, finding contentment in simple pleasures like dipping her hand into grain sacks, cracking crème brûlée with a spoon, and skipping stones along the canal. She finds an old metal box that contains childhood memorabilia hidden by a boy who lived in her apartment decades earlier. Amélie resolves to track down the boy and promises herself that if it makes him happy, she will devote her life to bringing happiness to others. After asking several people in the building about the boy's identity, Amélie meets her neighbor, an artist, and he recalls the boy's name. With this information, she finds the man, who is moved to tears and resolves to reconcile with his estranged daughter and the grandson he has never met. 
