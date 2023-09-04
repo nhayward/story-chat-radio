@@ -1,5 +1,7 @@
 ---
 title: 'Amélie - Omniscient Narrators'
+date: '05-09-2023 00:05'
+publish_date: '05-09-2023 00:05'
 ---
 
 **Summary of this month’s movie:**
