@@ -2,6 +2,9 @@
 title: 'Amélie - Omniscient Narrators'
 date: '05-09-2023 00:05'
 publish_date: '05-09-2023 00:05'
+metadata:
+    keywords: 'writing, podcast, how-to, omniscient narrator, omniscient'
+    description: 'Two book editors binge watch movies in search of storytelling gems - on this episode they discuss omniscient narrators as seen in the movie, Amélie'
 ---
 
 **Summary of this month’s movie:**
