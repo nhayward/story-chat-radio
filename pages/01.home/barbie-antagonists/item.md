@@ -6,6 +6,7 @@ publish_date: '03-10-2023 17:57'
 metadata:
     keywords: 'writing, podcast, how-to, Barbie, antagonist,  "antagonistic force"'
     description: 'Two book editors binge watch movies in search of storytelling gems - on this episode they discuss antagonists as seen in the movie, Barbie'
+media_order: 'Barbie movie.png'
 ---
 
 **Summary of this month’s movie:**
