@@ -1,6 +1,6 @@
 ---
 title: 'Barbie - Antagonists'
-published: false
+published: true
 date: '03-10-2023 17:57'
 publish_date: '03-10-2023 17:57'
 metadata:
