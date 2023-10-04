@@ -9,6 +9,8 @@ metadata:
 media_order: 'Barbie movie.png'
 ---
 
+ <iframe title="Embed Player" src="https://play.libsyn.com/embed/episode/id/28218311/height/192/theme/modern/size/large/thumbnail/yes/custom-color/39918e/time-start/00:00:00/playlist-height/200/direction/backward" height="192" width="100%" scrolling="no" allowfullscreen="" webkitallowfullscreen="true" mozallowfullscreen="true" oallowfullscreen="true" msallowfullscreen="true" style="border: none;"></iframe>
+
 **Summary of this month’s movie:**
 
 Stereotypical Barbie ("Barbie") is living her best life in Barbie Land, a matriarchal society populated by different versions of Barbies, Kens, and a group of discontinued models, who are treated like outcasts due to their unconventional traits. While the Kens spend their days playing at the beach,  the Barbies hold prestigious jobs such as doctor, lawyer, and politician. Beach Ken ("Ken") is only happy when he is with Barbie and seeks a closer relationship, but Barbie rebuffs him in favor of other activities and female friendships.
